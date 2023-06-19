@@ -151,10 +151,10 @@ def generate_ical():
       if is_offices_closed(e.name):
         staff.events.add(e)
 
-  with open('staff.ics', 'w') as f:
+  with open('build/staff.ics', 'w') as f:
     f.write(staff.serialize())
 
-  with open('academic.ics', 'w') as f:
+  with open('build/academic.ics', 'w') as f:
     f.write(academic.serialize())
 
 if __name__ == '__main__':
