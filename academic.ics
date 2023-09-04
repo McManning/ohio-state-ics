@@ -2,2517 +2,2517 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240714
+DTSTART;VALUE=DATE:20240803
+SUMMARY:Summer Commencement
+UID:2c1a0c3d-15db-4c50-9a7e-57be65f090f1@2c1a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241129
+SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
+UID:7d4e9aad-b232-4c54-9a10-5c04f3b3b634@7d4e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291122
+SUMMARY:Thanksgiving Day - no classes\, offices closed
+UID:0a94e3dd-822c-4515-bf57-6fff99f208f6@0a94.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281016
+SUMMARY:Second-session classes begin
+UID:69ef1fb3-0014-4579-8ec7-c1b6ebc6b24b@69ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220717
 SUMMARY:Enrollment Census Date (4-week Session 3)
-UID:49a77fd8-7dc5-4abb-8601-50fdffd46cb6@49a7.org
+UID:3e6d02fe-c1d0-4f29-ac42-7f3e3aa96442@3e6d.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241008
-DTEND;VALUE=DATE:20241010
-SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
-UID:5869b286-b566-4ba2-8ff8-33964ce97720@5869.org
+DTSTART;VALUE=DATE:20270124
+SUMMARY:Enrollment Census Date (semester\, first-session)
+UID:7879f330-e42f-41fd-a712-e4f6663f8e0f@7879.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231225
-SUMMARY:Christmas - offices closed
-UID:2db39c93-85dc-483e-802b-0e07e4430505@2db3.org
+DTSTART;VALUE=DATE:20210603
+SUMMARY:Last day of regularly scheduled 4-week Session 1 classes
+UID:3077d407-0b0c-40d9-8c6f-56133178516d@3077.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270731
-DTEND;VALUE=DATE:20270803
-SUMMARY:Final examinations for Summer Term*
-UID:23981cf6-f91d-4923-a829-e627cb35629c@2398.org
+DTSTART;VALUE=DATE:20241014
+SUMMARY:Second-session classes begin
+UID:d8e29e6b-3238-4061-af49-cd0b37133563@d8e2.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230715
-SUMMARY:Enrollment Census Date (4-week Session 3)
-UID:a4f24b32-21c0-4302-89d1-bc1bbd2464fe@a4f2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280822
-SUMMARY:Semester and first-session classes begin
-UID:69445379-0de3-4004-b66a-22c730bda202@6944.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230226
-DTEND;VALUE=DATE:20230228
-SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
-UID:db9b32bf-d60f-4ee0-935f-1c62a4a78948@db9b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20281110
-SUMMARY:Veterans Day observed - no classes\, offices closed
-UID:7fa8a518-710d-4500-b87f-bbc0a2143882@7fa8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270424
-SUMMARY:Last day of regularly scheduled semester and second-session classes
-UID:8a7a55f3-250c-4f0d-8f14-b856c9ea5da6@8a7a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280223
+DTSTART;VALUE=DATE:20250227
 SUMMARY:Last day of regularly scheduled first-session classes
-UID:0becaec0-af02-431e-8225-be7a301aa8e0@0bec.org
+UID:6ce8c4fe-215c-46cf-8322-4984e84da081@6ce8.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20281226
-SUMMARY:President's Day Observed - offices closed
-UID:790c5e60-1579-46a0-8ae6-351ea0312916@790c.org
+DTSTART;VALUE=DATE:20300613
+SUMMARY:Last day of regularly scheduled 6-week Session 1 classes
+UID:f6fc568f-9f5d-4145-9dfe-c44ea4de7894@f6fc.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230619
-SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
-UID:64a4e40e-7681-4cdf-9f81-e1584522a913@64a4.org
+DTSTART;VALUE=DATE:20240120
+SUMMARY:Enrollment Census Date (semester\, first-session)
+UID:787a5e55-d5bd-4536-b9f0-b77442a88ea2@787a.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271012
-DTEND;VALUE=DATE:20271014
-SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
-UID:0511cd3c-ae75-46c4-a021-420cbdf34a92@0511.org
+DTSTART;VALUE=DATE:20230223
+SUMMARY:Last day of regularly scheduled first-session classes
+UID:6ffc0587-4635-4061-bd5d-316fdbfc93d9@6ffc.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231217
+DTSTART;VALUE=DATE:20241215
 SUMMARY:Autumn Commencement
-UID:29d60ee5-5259-4a95-83e6-892f0dc5ce6b@29d6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250101
-SUMMARY:New Year's Day - offices closed
-UID:89a0fd67-f13b-471f-80c3-9aac58ae4d84@89a0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20211231
-SUMMARY:New Year's Day - offices closed
-UID:77499c5d-8564-4a94-8f07-168370469fc1@7749.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251126
-SUMMARY:Thanksgiving Break begins - no classes\, offices open
-UID:b7e0fa08-a2e9-4203-8371-179c0e84bfef@b7e0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280102
-SUMMARY:Initial Fee Due Date
-UID:941a688d-6be5-4ccb-98ad-e7b7e4e6f97e@941a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20291011
-DTEND;VALUE=DATE:20291013
-SUMMARY:Autumn Break - no classes\, offices open
-UID:d60de39a-ebec-448c-a52e-5902aad4866f@d60d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290121
-SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
-UID:4d1205f9-454e-40fc-aebe-2acf09fe48ba@4d12.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210530
-SUMMARY:Memorial Day - no classes\, offices closed
-UID:c20131f3-844b-4d02-9cae-9ef5edb8b7f6@c201.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260531
-SUMMARY:Memorial Day - no classes\, offices closed
-UID:db8ece30-e974-4ef4-9b99-87178fe93334@db8e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251014
-DTEND;VALUE=DATE:20251016
-SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
-UID:d5050d09-a5e2-49a9-9c2d-292e546a960c@d505.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20291224
-SUMMARY:President's Day Observed - offices closed
-UID:dc5eaf91-271b-4e80-9c0a-604608d9dae4@dc5e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300429
-SUMMARY:Initial Fee Due Date
-UID:07fd956a-1659-4b38-8dfe-a3efd0556074@07fd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231122
-SUMMARY:Thanksgiving Break begins - no classes\, offices open
-UID:465b9d5f-1331-483a-ad11-a1503e18ef37@465b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220529
-SUMMARY:Memorial Day - no classes\, offices closed
-UID:65022bf2-6d71-4217-8748-fe239a18a4f3@6502.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260301
-DTEND;VALUE=DATE:20260303
-SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
-UID:a511f4d8-252a-452d-8774-32fc7721b25c@a511.org
+UID:bd44e155-fd57-4fe3-97a3-803407176e63@bd44.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20211210
 DTEND;VALUE=DATE:20211217
 SUMMARY:Final examinations for semester and second-session classes
-UID:96dfc764-44bb-4cc1-b29f-0b1bd43f933c@96df.org
+UID:e620125b-d7bf-4bdf-8978-b131d6466256@e620.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241230
-SUMMARY:Initial Fee Due Date
-UID:5e99b5bb-7c76-4435-8588-04546e1305ce@5e99.org
+DTSTART;VALUE=DATE:20271111
+SUMMARY:Veterans Day observed - no classes\, offices closed
+UID:69296ccc-3550-45fa-956f-6468dd230fc1@6929.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270117
-SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
-UID:62ed615d-316d-468f-bb84-5ae42a6a8278@62ed.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260524
-SUMMARY:Enrollment Census Date (Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1)
-UID:44840146-581b-4495-a684-83853118ca37@4484.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261209
-SUMMARY:Last day of regularly scheduled semester and second-session classes
-UID:22a96b94-6f2b-4096-863a-3225b5e1457d@22a9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260617
-SUMMARY:Last day of regularly scheduled 6-week Session 1 classes
-UID:f2d0f3e6-549f-45bd-9bb4-dbfe66de92ee@f2d0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260808
-SUMMARY:Summer Commencement
-UID:f93cc8a3-d10f-45a1-8701-64e0cda883a6@f93c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220616
-SUMMARY:Last day of regularly scheduled 6-week Session 1 classes
-UID:fea5ab2f-947c-41bd-a33b-5cc00329956d@fea5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230101
-SUMMARY:New Year's Day - offices closed
-UID:04eb8aba-d58c-47a1-8dc9-339fd2be033d@04eb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20211126
-SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
-UID:76cc5249-c325-49ca-9177-067398e914ab@76cc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300312
-SUMMARY:Enrollment Census Date (second-session)
-UID:04211d26-dd41-473e-a874-6d0b71846ebc@0421.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261224
+DTSTART;VALUE=DATE:20301224
 SUMMARY:President's Day Observed - offices closed
-UID:7daa853c-651b-410b-8731-7588e86ef438@7daa.org
+UID:d0111ffa-d662-4272-b085-48a1018bbc7e@d011.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20301007
-DTEND;VALUE=DATE:20301009
-SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
-UID:2a8690a9-454c-4302-8916-0669c5ccb6f3@2a86.org
+DTSTART;VALUE=DATE:20280618
+SUMMARY:Enrollment Census Date (8-week Session 2\, 4-week Session 2)
+UID:e33cf3d6-43c8-4cd8-8624-3ef2be3a616a@e33c.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20291204
-SUMMARY:Last day of regularly scheduled semester and second-session classes
-UID:1ed1b1de-72e6-4a70-ac64-133b28576dbd@1ed1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230729
-DTEND;VALUE=DATE:20230801
-SUMMARY:Final examinations for Summer Term*
-UID:9e8aaa6a-160c-4229-883d-7bb3b7433179@9e8a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240504
-SUMMARY:Spring Commencement
-UID:1e6876c8-30b9-4886-8693-b97de677212c@1e68.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230701
-SUMMARY:Enrollment Census Date (6-week Session 2)
-UID:aff84e87-9581-4e3d-b499-9e695b8daac0@aff8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280815
-SUMMARY:Initial Fee Due Date
-UID:7fee389e-4c14-47ce-87f7-48bdf9f640b1@7fee.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250302
-DTEND;VALUE=DATE:20250304
-SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
-UID:297f5ef2-5d3e-4b40-b529-a1b560aa1ad3@297f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280108
-SUMMARY:Semester and first-session classes begin
-UID:bc206865-fff2-4f66-896d-d4e62edc6539@bc20.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250803
-DTEND;VALUE=DATE:20250806
-SUMMARY:Final examinations for Summer Term*
-UID:74eb1a19-acb5-4933-ad24-4c4d6bc889cb@74eb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290617
-SUMMARY:6-week Session 2 classes begin
-UID:fc4d6f73-02be-4307-a32c-aee71598704a@fc4d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270313
-DTEND;VALUE=DATE:20270318
-SUMMARY:Spring Break
-UID:4d18a4bb-29f3-495b-866d-c1b44af388cb@4d18.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290729
-DTEND;VALUE=DATE:20290801
-SUMMARY:Final examinations for Summer Term*
-UID:e1dbf446-8b37-4224-a0c2-4c69be9fb9d0@e1db.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271210
-DTEND;VALUE=DATE:20271217
-SUMMARY:Final examinations for semester and second-session classes
-UID:70a13e2f-bbbb-4a39-ad7b-af713aa1cf2c@70a1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210225
-SUMMARY:Last day of regularly scheduled first-session classes
-UID:3c98f201-5b48-4d02-b8b6-6fc08b4f063b@3c98.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250316
-DTEND;VALUE=DATE:20250321
-SUMMARY:Spring Break
-UID:19ee726d-128f-401e-9269-eebb7187ca31@19ee.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270605
-SUMMARY:8-week Session 2 and 4-week Session 2 classes begin
-UID:93352b7e-32a7-418c-82f7-9c0c18892ea7@9335.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260101
-SUMMARY:New Year's Day - offices closed
-UID:55114d49-ec03-432d-99f4-9e48f8dac618@5511.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290903
-SUMMARY:Enrollment Census Date (semester\, first-session)
-UID:341a03a5-a271-4ece-98a5-5553edf5b11d@341a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220123
-SUMMARY:Enrollment Census Date (semester\, first-session)
-UID:2eac1c89-7f25-49c9-b207-f033599b1140@2eac.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220619
+DTSTART;VALUE=DATE:20270619
 SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
-UID:ab1dea81-f53b-49a9-b2b4-8458bd3b1b92@ab1d.org
+UID:0b0393be-f9ad-4c09-b29d-398800f8dc60@0b03.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250706
-SUMMARY:Enrollment Census Date (6-week Session 2)
-UID:6d10483a-2723-41cd-acc8-c8d0114917bf@6d10.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210621
-SUMMARY:6-week Session 2 classes begin
-UID:2251063c-fe42-45c1-90e5-66b21d5d269e@2251.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220906
-SUMMARY:Enrollment Census Date (semester\, first-session)
-UID:0ac1db17-150a-4d75-a386-37b1a93ba307@0ac1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260702
-SUMMARY:4-week Session 3 classes begin
-UID:be613358-6822-4208-ae83-2dc9160a6c6b@be61.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20221207
-SUMMARY:Last day of regularly scheduled semester and second-session classes
-UID:e8f09ce2-cd76-4569-b31a-14ce9db5c3d0@e8f0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250227
+DTSTART;VALUE=DATE:20290222
 SUMMARY:Last day of regularly scheduled first-session classes
-UID:cea85453-da9f-4f5d-bf84-6e928662caed@cea8.org
+UID:4ecc303a-ffcd-462d-87f3-168c03c427f2@4ecc.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220102
-SUMMARY:New Year's Day - offices closed
-UID:2df8ee51-e6e3-4e32-b9bd-0c784f9f5157@2df8.org
+DTSTART;VALUE=DATE:20300120
+SUMMARY:Enrollment Census Date (semester\, first-session)
+UID:f42c1f38-be16-4a19-8cd0-e3d9d6ae407b@f42c.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290701
-SUMMARY:4-week Session 3 classes begin
-UID:c2bfe28d-1f6c-47dd-8d7b-fc9fe8245f6c@c2bf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230311
-DTEND;VALUE=DATE:20230316
-SUMMARY:Spring Break
-UID:fa57e697-b4ef-4a70-9380-73450ca81dec@fa57.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220227
-DTEND;VALUE=DATE:20220301
-SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
-UID:b4a1e260-82e5-407a-af56-730bd2a932e6@b4a1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210314
-DTEND;VALUE=DATE:20210319
-SUMMARY:Spring Break
-UID:ad848804-7bc1-4024-84e2-b0950d94eb6d@ad84.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260303
-SUMMARY:Second-session classes begin
-UID:2d7020d9-ce8d-4e0d-aee5-c991f4e962be@2d70.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300819
-SUMMARY:Semester and first-session classes begin
-UID:a11164b6-b110-4099-9f18-c85875a0bff3@a111.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20301009
-SUMMARY:Second-session classes begin
-UID:06f5b33c-1f4d-472b-b73c-e86940472469@06f5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210103
-SUMMARY:Initial Fee Due Date
-UID:98340865-fa5f-4cae-b0f4-2c6c4b4e9e20@9834.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231124
-SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
-UID:443a0331-a451-47c0-871c-1515e817992a@443a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270103
-SUMMARY:Initial Fee Due Date
-UID:70f1ec14-c150-493d-a8ec-f70d41f033cf@70f1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210425
-SUMMARY:Last day of regularly scheduled semester and second-session classes
-UID:9e781445-6661-4b9b-9f0c-704df285080d@9e78.org
+DTSTART;VALUE=DATE:20250525
+SUMMARY:Enrollment Census Date (Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1)
+UID:0fd10335-d0ad-4b60-9d99-6d05afa69b50@0fd1.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220426
 DTEND;VALUE=DATE:20220503
 SUMMARY:Final examinations for semester and second-session classes
-UID:136e2aef-6f76-4f8d-8ac7-711d5d91755d@136e.org
+UID:72940ba9-40ba-48c2-b132-f97db2bbbc47@7294.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280601
-SUMMARY:Last day of regularly scheduled 4-week Session 1 classes
-UID:7950f682-0b51-49ab-9ed0-cc1d27556ee3@7950.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210228
-DTEND;VALUE=DATE:20210302
-SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
-UID:d924586d-5cde-434f-9df3-61e7eca681e9@d924.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210603
-SUMMARY:Last day of regularly scheduled 4-week Session 1 classes
-UID:2cb51fd9-c22c-428d-88ca-9289ea305586@2cb5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300902
-SUMMARY:Labor Day - no classes\, offices closed
-UID:d5eeda63-8ee6-4e35-9788-5a6d75120e07@d5ee.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20281122
-SUMMARY:Thanksgiving Break begins - no classes\, offices open
-UID:e1058d8c-2ddb-4eb4-aa67-e799ecd4641e@e105.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270110
-SUMMARY:Semester and first-session classes begin
-UID:ea475dc5-41d5-4b2e-af59-d91085a0a906@ea47.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300627
-SUMMARY:Last day of regularly scheduled 8-week Session 1 and 4-week Session 2 classes
-UID:5dfb3736-b16d-4aa7-a9b2-92fd33eab26d@5dfb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261019
-SUMMARY:Second-session classes begin
-UID:30045470-e601-45aa-91d2-d9a93a82cf56@3004.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300725
-SUMMARY:Last day of regularly scheduled Summer Term\, 8-week Session 2\, 6-week Session 2\, and 4-week Session 3 classes
-UID:552ec78d-ad33-4371-91ef-ad8fceb1a940@552e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250525
-SUMMARY:Enrollment Census Date (Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1)
-UID:a3bea246-cbe6-40b7-8d59-2935518a6bc5@a3be.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270225
-SUMMARY:Last day of regularly scheduled first-session classes
-UID:82377930-90fe-4958-a539-728fb38c808f@8237.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300530
-SUMMARY:Last day of regularly scheduled 4-week Session 1 classes
-UID:807dfc09-1dc4-443a-a0c0-e705bf8feeb8@807d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20211014
-DTEND;VALUE=DATE:20211016
-SUMMARY:Autumn Break - no classes\, offices open
-UID:aa3476ef-4e93-4c6d-842f-b682aa4fc282@aa34.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300120
-SUMMARY:Enrollment Census Date (semester\, first-session)
-UID:7ae17df0-36ee-48b0-944c-a4ce656d66ef@7ae1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251016
-DTEND;VALUE=DATE:20251018
-SUMMARY:Autumn Break - no classes\, offices open
-UID:61f83b49-469f-4662-8deb-e76459cdbaa2@61f8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241225
-SUMMARY:Christmas - offices closed
-UID:743085ea-37ee-4178-971c-50e7bbebd0a8@7430.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20291207
-DTEND;VALUE=DATE:20291214
-SUMMARY:Final examinations for semester and second-session classes
-UID:791e6144-ac0e-4336-944a-a7891de7930e@791e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210907
-SUMMARY:Enrollment Census Date (semester\, first-session)
-UID:8fead402-45cf-43b3-ba7c-d52e9fa60135@8fea.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300902
-SUMMARY:Enrollment Census Date (semester\, first-session)
-UID:a3679957-c119-4427-8a49-0321e3ba5b42@a367.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271111
-SUMMARY:Veterans Day observed - no classes\, offices closed
-UID:f7b06c6b-4ae6-49d6-b0b8-685d1fa57396@f7b0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280101
-SUMMARY:New Year's Day - offices closed
-UID:23ce0e3e-2902-445c-91ff-1e8f8b520448@23ce.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271223
-SUMMARY:President's Day Observed - offices closed
-UID:9eaca3ae-64ec-4792-9f47-966d8e03a388@9eac.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280501
-SUMMARY:Initial Fee Due Date
-UID:d65f51c2-bcef-40f6-bc9c-f115d07c8a81@d65f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290614
-SUMMARY:Last day of regularly scheduled 6-week Session 1 classes
-UID:c056dab0-e1a9-427f-ae60-93eb85ee6998@c056.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290422
-SUMMARY:Last day of regularly scheduled semester and second-session classes
-UID:20069f98-8df1-414d-9f4c-6b3b354ab2a5@2006.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290507
-SUMMARY:Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1 classes begin
-UID:8090ef0c-ce00-451c-8a30-0770e16cedbf@8090.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290704
-SUMMARY:Independence Day - no classes\, offices closed
-UID:32df0911-9c65-4d93-b4ce-ebf276c53135@32df.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210427
-DTEND;VALUE=DATE:20210504
-SUMMARY:Final examinations for semester and second-session classes
-UID:4a71b3ca-e728-4f64-bca5-212431c6ad54@4a71.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231016
-SUMMARY:Second-session classes begin
-UID:60c57634-c22b-465a-aa2c-95519f7775a1@60c5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251103
+DTSTART;VALUE=DATE:20220315
 SUMMARY:Enrollment Census Date (second-session)
-UID:e2f1954a-6754-4800-a1fd-50a9ab248a3c@e2f1.org
+UID:cff7b993-954f-4d0f-a4f8-e07f421282da@cff7.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300728
-DTEND;VALUE=DATE:20300731
-SUMMARY:Final examinations for Summer Term*
-UID:7b644f7e-8966-41bb-b985-6aa919280985@7b64.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261102
-SUMMARY:Enrollment Census Date (second-session)
-UID:37df8a23-9f5a-4c22-925d-6967be21b503@37df.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220224
-SUMMARY:Last day of regularly scheduled first-session classes
-UID:ead9f6dd-34c6-473f-9cbb-cd16a53340c1@ead9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280508
-SUMMARY:Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1 classes begin
-UID:7be5e77e-8ed2-4b38-b543-8784a82077d9@7be5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290617
-SUMMARY:Enrollment Census Date (8-week Session 2\, 4-week Session 2)
-UID:4ce575ca-39b4-4657-b397-13b80e40f5ba@4ce5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240902
-SUMMARY:Labor Day - no classes\, offices closed
-UID:efa3ae6c-5af8-44d1-bc64-99c0e32f63eb@efa3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20301010
-DTEND;VALUE=DATE:20301012
-SUMMARY:Autumn Break - no classes\, offices open
-UID:0f2baec5-9dba-4469-96a9-de552b809f2f@0f2b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230603
-SUMMARY:8-week Session 2 and 4-week Session 2 classes begin
-UID:9404a321-0f20-4705-9a02-73c0259164d9@9404.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20281012
-DTEND;VALUE=DATE:20281014
-SUMMARY:Autumn Break - no classes\, offices open
-UID:9da53a54-0938-4ab8-a844-9b6f636ffa08@9da5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20301225
-SUMMARY:Christmas - offices closed
-UID:4c97ef8d-9d5a-46ec-b65f-625c8e98706a@4c97.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271011
-SUMMARY:Last day of regularly scheduled first-session classes
-UID:006e7745-6b2b-4a35-b7a0-13ab2fab1b87@006e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20281009
-SUMMARY:Last day of regularly scheduled first-session classes
-UID:860cda72-99a5-462a-bdd3-9c0b5a601d2f@860c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250525
+DTSTART;VALUE=DATE:20270529
 SUMMARY:Memorial Day - no classes\, offices closed
-UID:96a64148-23e5-4494-9115-1b1f9ac33ab1@96a6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230507
-SUMMARY:Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1 classes begin
-UID:dcc9915b-5b94-4981-9c44-54b045856ac6@dcc9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230614
-SUMMARY:Last day of regularly scheduled 6-week Session 1 classes
-UID:a0dca9f8-ca10-44c5-b330-e6fc1740b13d@a0dc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230617
-SUMMARY:6-week Session 2 classes begin
-UID:25d69477-f586-4ca0-8642-f501290f7300@25d6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290101
-SUMMARY:New Year's Day - offices closed
-UID:26a6b897-32c2-4955-8b16-9c6b794a4eee@26a6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241128
-SUMMARY:Thanksgiving Day - no classes\, offices closed
-UID:dff112e3-e98f-45f6-b4cb-1b0c6ade2992@dff1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20281217
-SUMMARY:Autumn Commencement
-UID:8b9ee382-c131-4e91-9efe-a09cdd5452af@8b9e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240903
-SUMMARY:Enrollment Census Date (semester\, first-session)
-UID:e8b5ccbe-bb76-4100-b922-53a8be385ed9@e8b5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230108
-SUMMARY:Semester and first-session classes begin
-UID:11e9a480-e583-4b0a-a14e-5d97e42521a4@11e9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270705
-SUMMARY:4-week Session 3 classes begin
-UID:d1330a73-b08e-4639-af47-0e1a9b41ae2f@d133.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250605
-SUMMARY:8-week Session 2 and 4-week Session 2 classes begin
-UID:087abdba-7fda-4f7b-b82f-12d6e047714a@087a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20301230
-SUMMARY:Initial Fee Due Date
-UID:f706722a-be06-48e5-92f8-eccbcff99c3e@f706.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261111
-SUMMARY:Veterans Day observed - no classes\, offices closed
-UID:1cc6d61e-beb2-4cef-93b2-c01f49a5cd92@1cc6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210906
-SUMMARY:Labor Day - no classes\, offices closed
-UID:3d97a452-01c1-47c7-a254-f8d76d2511fb@3d97.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271101
-SUMMARY:Enrollment Census Date (second-session)
-UID:5d87a5e6-4eff-4c0b-8282-a6df78de153f@5d87.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300613
-SUMMARY:Last day of regularly scheduled 6-week Session 1 classes
-UID:ad4c72b8-6cef-47ab-8512-f42bc5524751@ad4c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20221226
-SUMMARY:Christmas - offices closed
-UID:f9b1d9f0-0f0a-4a98-a0cb-727570beb954@f9b1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240224
-DTEND;VALUE=DATE:20240226
-SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
-UID:e75b5c97-3326-40dd-9ef9-ba0a1160d0a4@e75b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280506
-SUMMARY:Spring Commencement
-UID:c9f74666-ae25-4cf0-a28f-31b239baf582@c9f7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300704
-SUMMARY:Independence Day - no classes\, offices closed
-UID:63b807a8-758c-4cea-a6ce-4b8e74d48cc6@63b8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230430
-SUMMARY:Initial Fee Due Date
-UID:626f4bb8-528a-43e3-8b53-f53ccc9d1fec@626f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280702
-SUMMARY:Enrollment Census Date (6-week Session 2)
-UID:9287f090-198d-40d4-8952-9c452cee7735@9287.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251210
-SUMMARY:Last day of regularly scheduled semester and second-session classes
-UID:57833dcf-7e2f-4747-9ac3-5bd431217738@5783.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220507
-SUMMARY:Spring Commencement
-UID:c67d0e72-c323-478b-99fd-5b141241b6c1@c67d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300520
-SUMMARY:Enrollment Census Date (Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1)
-UID:e39e4d93-9482-4b11-8ec4-faed39ef2a2a@e39e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280228
-SUMMARY:Second-session classes begin
-UID:2efa431c-e6ec-43c3-b74b-e362716b2a40@2efa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20221010
-SUMMARY:Last day of regularly scheduled first-session classes
-UID:2f58823d-e988-44c2-b979-a12faaaa5f91@2f58.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280704
-SUMMARY:Independence Day - no classes\, offices closed
-UID:2426d7b0-6004-417a-b0bb-ef818bb75ef6@2426.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290505
-SUMMARY:Spring Commencement
-UID:f758ac2c-f47b-4497-9c49-f77819a08761@f758.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300812
-SUMMARY:Initial Fee Due Date
-UID:427e31bc-81da-4772-87e8-13ba3cacd29f@427e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240106
-SUMMARY:Semester and first-session classes begin
-UID:c3259163-d554-4a8b-b99b-199d6c6fde3a@c325.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250703
-SUMMARY:Independence Day - no classes\, offices closed
-UID:2a9de3b5-45e5-4cea-b8ee-5d0f37b2d279@2a9d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20281124
-SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
-UID:2bd89670-bb92-4df1-a289-30dfe23c8cd6@2bd8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20301215
-SUMMARY:Autumn Commencement
-UID:cff7cef0-055d-4e38-bf48-080afa2dec1c@cff7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270619
-SUMMARY:Enrollment Census Date (8-week Session 2\, 4-week Session 2)
-UID:58f4d49c-56a1-4f35-90b8-934ba753253e@58f4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250112
-SUMMARY:Semester and first-session classes begin
-UID:dc50c99e-ffc0-4fc4-815a-68f448a9008b@dc50.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231208
-DTEND;VALUE=DATE:20231215
-SUMMARY:Final examinations for semester and second-session classes
-UID:67839757-2231-4c57-b41d-6137937b2166@6783.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230521
-SUMMARY:Enrollment Census Date (Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1)
-UID:328e8b40-3a3f-40e2-9cd6-d6498b1c003d@328e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241215
-SUMMARY:Autumn Commencement
-UID:e35afc63-88a5-40a9-8e3a-8317643f3795@e35a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280618
-SUMMARY:Enrollment Census Date (8-week Session 2\, 4-week Session 2)
-UID:39ce364f-4beb-4910-89f8-3e22307d7859@39ce.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20301023
-SUMMARY:Enrollment Census Date (second-session)
-UID:e0b84445-d9f1-4059-bb75-4ba77d1fe339@e0b8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20211219
-SUMMARY:Autumn Commencement
-UID:ac23dfa6-5dc1-46a0-8a6d-0a3f033c366e@ac23.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300616
-SUMMARY:Enrollment Census Date (8-week Session 2\, 4-week Session 2)
-UID:be016d0a-0d48-475e-8767-82f4aea9b268@be01.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250622
-SUMMARY:6-week Session 2 classes begin
-UID:ef4469de-966c-41b4-9d5b-c993714bdadb@ef44.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290313
-SUMMARY:Enrollment Census Date (second-session)
-UID:8a46a94a-36a0-4b7b-a3b8-d8ca8127c796@8a46.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220313
-DTEND;VALUE=DATE:20220318
-SUMMARY:Spring Break
-UID:d42cf5ff-d257-4f78-b2ba-33fd8959e1d3@d42c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210117
-SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
-UID:71579f1d-e84c-4894-85cd-58997c58d9bd@7157.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20211101
-SUMMARY:Enrollment Census Date (second-session)
-UID:e6cb1f2b-f0e2-47f9-a92d-d66f7384d6fc@e6cb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290121
-SUMMARY:Enrollment Census Date (semester\, first-session)
-UID:d8da52f6-6a46-4212-9233-524eb3236e19@d8da.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270704
-SUMMARY:Independence Day - no classes\, offices closed
-UID:c3d74ca9-133a-4cca-b425-6e161031f5c6@c3d7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250826
-SUMMARY:Semester and first-session classes begin
-UID:13a0d619-0ff7-4dc4-b8c7-91ae4adb8bc8@13a0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210620
-SUMMARY:Enrollment Census Date (8-week Session 2\, 4-week Session 2)
-UID:d9941be0-7246-44f2-80fd-8016e7130828@d994.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270906
-SUMMARY:Labor Day - no classes\, offices closed
-UID:1622439e-bbcf-447f-ac63-73015744a4a1@1622.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20221218
-SUMMARY:Autumn Commencement
-UID:9d9a30f7-2f5d-462a-b074-e48e35ad599c@9d9a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270616
-SUMMARY:Last day of regularly scheduled 6-week Session 1 classes
-UID:e31d34fd-875d-4e84-b433-e70bbdc998f0@e31d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220109
-SUMMARY:Semester and first-session classes begin
-UID:d33b3bc2-4855-42e9-b084-663128afbff8@d33b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300616
-SUMMARY:6-week Session 2 classes begin
-UID:826b733c-a2fc-4768-a702-37d9f8512f37@826b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300310
-DTEND;VALUE=DATE:20300315
-SUMMARY:Spring Break
-UID:017664b9-7f02-46e4-9cdc-da7e7608839c@0176.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250604
-SUMMARY:Last day of regularly scheduled 4-week Session 1 classes
-UID:f2193de1-4a0c-459e-8c2a-fd7347ab4fad@f219.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241010
-DTEND;VALUE=DATE:20241012
-SUMMARY:Autumn Break - no classes\, offices open
-UID:4d415369-7211-4ace-a0fc-4001996fe890@4d41.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240423
-DTEND;VALUE=DATE:20240430
-SUMMARY:Final examinations for semester and second-session classes
-UID:d207003b-9e47-45da-9cda-1b67ef54f0f8@d207.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20291121
-SUMMARY:Thanksgiving Break begins - no classes\, offices open
-UID:17d45d2b-22d2-4e96-b580-7e330bd8a822@17d4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20301128
-SUMMARY:Thanksgiving Day - no classes\, offices closed
-UID:4d3b8428-3127-4473-b8eb-dd2c878c0499@4d3b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260705
-SUMMARY:Independence Day - no classes\, offices closed
-UID:be636405-8273-4617-8aed-47068d95b88c@be63.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270704
-SUMMARY:Enrollment Census Date (6-week Session 2)
-UID:7638cd01-234f-4278-b6f0-aaf6ef5115d9@7638.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210508
-SUMMARY:Spring Commencement
-UID:a62ad987-a7ce-4945-b862-e5789557e920@a62a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250105
-SUMMARY:Initial Fee Due Date
-UID:be19d47a-25e9-4544-b554-47904c4300b5@be19.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230223
-SUMMARY:Last day of regularly scheduled first-session classes
-UID:488fc5f5-9e2b-47e2-a0e0-bc18d37897c9@488f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240704
-SUMMARY:Independence Day - no classes\, offices closed
-UID:b609040f-e55c-4a24-8dba-946edb500594@b609.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300221
-SUMMARY:Last day of regularly scheduled first-session classes
-UID:949338d9-3115-402e-9d0b-6f597316099a@9493.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280730
-DTEND;VALUE=DATE:20280802
-SUMMARY:Final examinations for Summer Term*
-UID:e999f5c8-2d92-4d81-88ef-05409cdb0643@e999.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230527
-SUMMARY:Memorial Day - no classes\, offices closed
-UID:e5d60b9c-5da9-4703-82d3-35627f050f2e@e5d6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271208
-SUMMARY:Last day of regularly scheduled semester and second-session classes
-UID:29f1cb96-c1d6-4e37-a908-eb8cb433666f@29f1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290311
-DTEND;VALUE=DATE:20290316
-SUMMARY:Spring Break
-UID:fb78db27-60e0-4475-8d1b-90dbe5ba3620@fb78.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20211223
-SUMMARY:President's Day Observed - offices closed
-UID:f26b6d6a-6b44-42f9-9d01-e5561fcb4cb9@f26b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241111
-SUMMARY:Veterans Day observed - no classes\, offices closed
-UID:7dd96109-40ba-485e-ae9b-916c1f5c8190@7dd9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241007
-SUMMARY:Last day of regularly scheduled first-session classes
-UID:f1e96d4b-5e6d-4602-a29b-3ed9472886bd@f1e9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260818
-SUMMARY:Initial Fee Due Date
-UID:d716ed10-5652-425f-a14a-54d5955533e9@d716.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280423
-SUMMARY:Last day of regularly scheduled semester and second-session classes
-UID:25c12539-1f48-4f4e-ab63-1831c9bc8a09@25c1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241129
-SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
-UID:84e77a8b-8e12-453f-89d5-912c8d3af2c1@84e7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261017
-SUMMARY:Autumn Break - no classes\, offices open
-UID:d4b912a2-dfc1-4413-bd6d-3a76ceee32e3@d4b9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20281010
-DTEND;VALUE=DATE:20281012
-SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
-UID:62e7c689-1cf1-4446-8124-98ef606e8d72@62e7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220523
-SUMMARY:Enrollment Census Date (Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1)
-UID:d24fadcc-8c95-4b92-ad7b-1e731a04a725@d24f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20291123
-SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
-UID:582df3a7-a684-41e4-811c-0a9fa332c807@582d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220704
-SUMMARY:Independence Day - no classes\, offices closed
-UID:3890e784-dccc-4952-b8e8-817a53b8680a@3890.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20281225
-SUMMARY:Christmas - offices closed
-UID:b680f109-0d2f-43cc-9ae2-3852bb56a43f@b680.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290107
-SUMMARY:Semester and first-session classes begin
-UID:c94d01ce-3292-486e-b616-cef8421c84af@c94d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230424
-DTEND;VALUE=DATE:20230501
-SUMMARY:Final examinations for semester and second-session classes
-UID:0a2fcc3b-bcca-4faa-847f-ad5c20636a30@0a2f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260317
-SUMMARY:Enrollment Census Date (second-session)
-UID:afaeed9c-a9c8-4ce8-b481-c7d94894a52f@afae.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261127
-SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
-UID:f1be199d-7ecb-495c-b7cb-39c9d2237dd1@f1be.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230628
-SUMMARY:Last day of regularly scheduled 8-week Session 1 and 4-week Session 2 classes
-UID:5fe195ed-3481-47e8-b7d2-0a0a14247080@5fe1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261220
-SUMMARY:Autumn Commencement
-UID:43dde5a2-3f10-446f-84a6-f470ac4eaf91@43dd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20211012
-DTEND;VALUE=DATE:20211014
-SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
-UID:ccf5cfc6-8399-4267-a2db-4e8e0ec1a12b@ccf5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300120
-SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
-UID:5794d40e-495b-427d-9a59-d8521df17690@5794.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240630
-SUMMARY:Enrollment Census Date (6-week Session 2)
-UID:d94b025f-2ee5-4808-aa62-92da4fe31189@d94b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20221125
-SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
-UID:9c385f21-7861-4447-9c12-1b402c056e88@9c38.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250619
-SUMMARY:Enrollment Census Date (8-week Session 2\, 4-week Session 2)
-UID:38ce8d38-fe6d-479b-9f12-d11bc63f2adb@38ce.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290701
-SUMMARY:Enrollment Census Date (6-week Session 2)
-UID:5e0c4dc4-7f15-4bd7-ba40-1f2e82fdec3e@5e0c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251225
-SUMMARY:Christmas - offices closed
-UID:abaf7955-cb03-464c-bb76-756a3e2c8c1b@abaf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280716
-SUMMARY:Enrollment Census Date (4-week Session 3)
-UID:be57ab35-196f-4a8c-8fed-45ebe3b7ae61@be57.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20301203
-SUMMARY:Last day of regularly scheduled semester and second-session classes
-UID:823c2c12-d555-42f3-b4e2-5b44c480e83c@823c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250511
-SUMMARY:Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1 classes begin
-UID:f98f817d-ec5a-490f-a1c4-285c41d4945f@f98f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20211224
-SUMMARY:Christmas - offices closed
-UID:cd3c0f3d-56d6-48c2-8b73-10a1106818f0@cd3c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240429
-SUMMARY:Initial Fee Due Date
-UID:91e44512-6357-44c5-965e-50ed648d7e3d@91e4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270315
-SUMMARY:Enrollment Census Date (second-session)
-UID:0fd27f08-b5f9-42d9-8195-053ec5a163e3@0fd2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260618
-SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
-UID:423031fa-2b57-400a-ad45-2889c4b4eb15@4230.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220630
-SUMMARY:Last day of regularly scheduled 8-week Session 1 and 4-week Session 2 classes
-UID:4f769759-d8fe-4b18-9668-eae514309c59@4f76.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250318
-SUMMARY:Enrollment Census Date (second-session)
-UID:d610fc8e-3e80-4fea-bd1b-bdc0e3272a2a@d610.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271014
-DTEND;VALUE=DATE:20271016
-SUMMARY:Autumn Break - no classes\, offices open
-UID:f22fa1b8-10de-42ee-9514-2784155556ab@f22f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280122
-SUMMARY:Enrollment Census Date (semester\, first-session)
-UID:1bf1e607-fa53-45f3-95a1-f2a483957e23@1bf1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210701
-SUMMARY:Last day of regularly scheduled 8-week Session 1 and 4-week Session 2 classes
-UID:2ccc8215-d849-41d3-acf1-38166bfd2cd1@2ccc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20211111
-SUMMARY:Veterans Day observed - no classes\, offices closed
-UID:d4c1764c-77d5-4e38-a047-9c81cda7a061@d4c1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270509
-SUMMARY:Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1 classes begin
-UID:5034a31d-faa8-43e4-85a9-3f7545976566@5034.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261218
-SUMMARY:Final examinations for semester and second-session classes
-UID:0f4ce999-9268-49ce-b294-9244bf9737bd@0f4c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270507
-SUMMARY:Spring Commencement
-UID:d7577a50-a271-4164-beb5-da8f07a69c37@d757.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260802
-DTEND;VALUE=DATE:20260805
-SUMMARY:Final examinations for Summer Term*
-UID:e6c15bfd-3db8-4085-ab50-db11f7ee2ea8@e6c1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260509
-SUMMARY:Spring Commencement
-UID:2aa3312f-11eb-4f88-a225-55a935b9a36b@2aa3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240226
-SUMMARY:Second-session classes begin
-UID:ff18eb97-83cc-4b19-9d10-a8c3badba1b5@ff18.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230815
-SUMMARY:Initial Fee Due Date
-UID:a08c60cd-0e4c-48b6-8bc2-885278035914@a08c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241028
-SUMMARY:Enrollment Census Date (second-session)
-UID:f602cbb4-174d-4b0b-a550-bd3b6e6c8c3b@f602.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271219
-SUMMARY:Autumn Commencement
-UID:4742172b-f0df-4c95-995e-d951caaf5a2a@4742.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20291024
-SUMMARY:Enrollment Census Date (second-session)
-UID:8628d919-8607-4f2a-aa09-fc773739fd8c@8628.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250618
-SUMMARY:Last day of regularly scheduled 6-week Session 1 classes
-UID:98e0b5ec-035e-4eb7-bffd-81e9365d5d80@98e0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210824
-SUMMARY:Semester and first-session classes begin
-UID:2192ceba-5d00-40a5-9b01-aaaa03edf33e@2192.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20281123
-SUMMARY:Thanksgiving Day - no classes\, offices closed
-UID:3a12b092-cce1-4e32-86c7-3c428732c8cb@3a12.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230115
-SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
-UID:26d637a2-d3ad-4c60-835c-b7ef1abc76e7@26d6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210316
-SUMMARY:Enrollment Census Date (second-session)
-UID:ce0c6985-452e-4a68-8f21-cc2a84ed5b08@ce0c.org
+UID:6e4f3039-c6df-44e2-a8ae-7ec06e5ebbf8@6e4f.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250510
 SUMMARY:Spring Commencement
-UID:c3820e51-0011-47b3-b501-b33362c176b8@c382.org
+UID:468b7a3b-d7cb-431a-9990-cf0da6093df4@468b.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270619
-SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
-UID:e14f5f1a-0c8d-4606-9a70-9309f39af5e7@e14f.org
+DTSTART;VALUE=DATE:20220704
+SUMMARY:Enrollment Census Date (6-week Session 2)
+UID:acdf352e-45af-4cf7-8020-54eee219d115@acdf.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230122
-SUMMARY:Enrollment Census Date (semester\, first-session)
-UID:3db4508d-6eda-4a43-84bf-b1efccde3d1b@3db4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280425
-DTEND;VALUE=DATE:20280502
-SUMMARY:Final examinations for semester and second-session classes
-UID:01334959-3596-4aa4-af8e-4b7747ec946a@0133.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231010
-DTEND;VALUE=DATE:20231012
-SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
-UID:b1f60b09-d9f6-4762-9221-d2419ee2bf2d@b1f6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220424
-SUMMARY:Last day of regularly scheduled semester and second-session classes
-UID:3e7a9697-d22a-4f9d-8934-1ec6e996bfca@3e7a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20301127
-SUMMARY:Thanksgiving Break begins - no classes\, offices open
-UID:df71466d-9cac-451d-9c4d-d80772765841@df71.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231206
-SUMMARY:Last day of regularly scheduled semester and second-session classes
-UID:21546ac6-95d1-4b03-a428-2dc9b9c772cf@2154.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230701
+DTSTART;VALUE=DATE:20220703
 SUMMARY:4-week Session 3 classes begin
-UID:2f21dedc-03f4-4aea-b37b-4b01cdf718ce@2f21.org
+UID:1d93561f-d977-4906-b3ae-8061a06b8bee@1d93.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231226
-SUMMARY:President's Day Observed - offices closed
-UID:ebdfa360-0db7-4f73-a4e4-114084dbed88@ebdf.org
+DTSTART;VALUE=DATE:20290701
+SUMMARY:Enrollment Census Date (6-week Session 2)
+UID:fdf1f8c8-bcd5-41e8-8b23-5c126648c82e@fdf1.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240310
-DTEND;VALUE=DATE:20240315
-SUMMARY:Spring Break
-UID:a0512a51-c845-410e-9d70-2827459148fe@a051.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210524
-SUMMARY:Enrollment Census Date (Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1)
-UID:b2e17296-c827-4c4a-aa37-d1299e6de2ef@b2e1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220103
-SUMMARY:Initial Fee Due Date
-UID:c914b8f9-2319-4623-82f9-526e69d8c627@c914.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300423
-DTEND;VALUE=DATE:20300430
-SUMMARY:Final examinations for semester and second-session classes
-UID:158a49d0-3526-497f-bec1-c2a0b4c62c90@158a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210704
-SUMMARY:Independence Day - no classes\, offices closed
-UID:b5d85d30-7c07-46d7-b82d-fe32e983a052@b5d8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280226
-DTEND;VALUE=DATE:20280228
-SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
-UID:f1dbc5b2-4db5-4be8-b562-9b34dd993fe7@f1db.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260618
-SUMMARY:Enrollment Census Date (8-week Session 2\, 4-week Session 2)
-UID:f3ed63a1-1663-469a-a185-766513ea1461@f3ed.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210510
-SUMMARY:Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1 classes begin
-UID:d1270b15-0cd5-476f-9857-fc7652c82872@d127.org
+DTSTART;VALUE=DATE:20230614
+SUMMARY:Last day of regularly scheduled 6-week Session 1 classes
+UID:a6bda61f-8651-413f-8058-203be9d7b36f@a6bd.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210801
 DTEND;VALUE=DATE:20210804
 SUMMARY:Final examinations for Summer Term*
-UID:99a9bae7-1ccd-4b4b-b70b-c08b0c5632b4@99a9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220509
-SUMMARY:Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1 classes begin
-UID:9fe1748d-8ba1-4198-905e-eca73f1b9cac@9fe1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260603
-SUMMARY:Last day of regularly scheduled 4-week Session 1 classes
-UID:1047b655-5600-4e05-87c0-67169cb29345@1047.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280619
-SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
-UID:7b88553e-ea4c-49bf-8e63-28a45fc49a0b@7b88.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231030
-SUMMARY:Enrollment Census Date (second-session)
-UID:2ab79da4-bc9a-4241-b743-dfd3c9fab9f5@2ab7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290820
-SUMMARY:Semester and first-session classes begin
-UID:6ca7c686-8381-4991-bafe-868e013dd8ba@6ca7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220823
-SUMMARY:Semester and first-session classes begin
-UID:943151d1-5ed9-42cd-a175-4c595d5f12aa@9431.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290225
-DTEND;VALUE=DATE:20290227
-SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
-UID:ce690ca5-b35b-4ae9-8cc6-fbb4a2703105@ce69.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251013
-SUMMARY:Last day of regularly scheduled first-session classes
-UID:f7dbada7-fe8b-407e-9b3c-ee168ebfaec1@f7db.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20211125
-SUMMARY:Thanksgiving Day - no classes\, offices closed
-UID:3c6b1e91-6d8b-4436-bda5-932dde5a68a6@3c6b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220905
-SUMMARY:Labor Day - no classes\, offices closed
-UID:66be104d-4215-41ba-8e3f-7d4741eaf308@66be.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240820
-SUMMARY:Semester and first-session classes begin
-UID:82e05893-fb52-465f-81bd-b25748d2e991@82e0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20301004
-SUMMARY:Last day of regularly scheduled first-session classes
-UID:b1f38852-8cfc-41b3-8a89-7487fbb9c3d2@b1f3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300224
-DTEND;VALUE=DATE:20300226
-SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
-UID:69f72c6b-8813-40a8-b434-cafe54bbd168@69f7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290726
-SUMMARY:Last day of regularly scheduled Summer Term\, 8-week Session 2\, 6-week Session 2\, and 4-week Session 3 classes
-UID:452d20d4-6b38-42db-b3fa-9ee42bfa5435@452d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210705
-SUMMARY:4-week Session 3 classes begin
-UID:7f709737-8aea-441f-b629-0c1ccb82fca5@7f70.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240813
-SUMMARY:Initial Fee Due Date
-UID:942769b7-8f37-45ae-84c0-8d5ab296a169@9427.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260428
-DTEND;VALUE=DATE:20260505
-SUMMARY:Final examinations for semester and second-session classes
-UID:fc9804db-7728-4bf2-91da-a78d4acaf9ee@fc98.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260604
-SUMMARY:8-week Session 2 and 4-week Session 2 classes begin
-UID:cdce3d22-e648-45bb-82d5-03dea0a570ac@cdce.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270529
-SUMMARY:Memorial Day - no classes\, offices closed
-UID:0b90e083-d080-43a8-ba6f-133f96de39e8@0b90.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230313
-SUMMARY:Enrollment Census Date (second-session)
-UID:0e4f15ae-a308-4043-8747-b2b1e56879ae@0e4f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280528
-SUMMARY:Memorial Day - no classes\, offices closed
-UID:dd89c7b2-f36f-4569-8d2e-8f2abf8e3e7e@dd89.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220728
-SUMMARY:Last day of regularly scheduled Summer Term\, 8-week Session 2\, 6-week Session 2\, and 4-week Session 3 classes
-UID:fb500bfa-3ced-4181-a821-d03267ec716a@fb50.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20301224
-SUMMARY:President's Day Observed - offices closed
-UID:4d96a318-d904-4f7a-936e-0f8fe4eacb95@4d96.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20301129
-SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
-UID:fd637fe6-3414-4800-858a-72ede7308264@fd63.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20221011
-DTEND;VALUE=DATE:20221013
-SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
-UID:ad51562f-23bc-4cf7-8585-630ec2cb78b4@ad51.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280615
-SUMMARY:Last day of regularly scheduled 6-week Session 1 classes
-UID:35fa8941-c15d-4609-950d-64f31b5af77a@35fa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290715
-SUMMARY:Enrollment Census Date (4-week Session 3)
-UID:9475c53b-efb9-4d0f-a1c7-7983f1da2731@9475.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260907
-SUMMARY:Labor Day - no classes\, offices closed
-UID:8a87f211-b5e1-49e4-8fdb-33e52f5e602c@8a87.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270719
-SUMMARY:Enrollment Census Date (4-week Session 3)
-UID:3abcb51e-3b1f-4c3a-b7cc-09b21089f94a@3abc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20291122
-SUMMARY:Thanksgiving Day - no classes\, offices closed
-UID:b7c16010-c9ab-415a-b747-1af1fd5a102e@b7c1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271126
-SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
-UID:b0bb9615-793a-452f-a6a8-2d2639e00d77@b0bb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240221
-SUMMARY:Last day of regularly scheduled first-session classes
-UID:cdce3434-2a91-46c4-8698-5e080620047b@cdce.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240530
-SUMMARY:Last day of regularly scheduled 4-week Session 1 classes
-UID:dfc3662f-e30d-488e-a706-4b085232b8f8@dfc3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220717
-SUMMARY:Enrollment Census Date (4-week Session 3)
-UID:fce3cfeb-7828-4c41-9503-ee27d01e4090@fce3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290531
-SUMMARY:Last day of regularly scheduled 4-week Session 1 classes
-UID:d2433a70-25c0-4900-b300-b2d366ec7b3b@d243.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270620
-SUMMARY:6-week Session 2 classes begin
-UID:9c2d3ca0-c0b5-4d48-b73e-909dfe7c49d6@9c2d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20291216
-SUMMARY:Autumn Commencement
-UID:0c313703-14a4-4e69-8d60-1ba38686416a@0c31.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250619
-SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
-UID:1ca38c62-bd20-45fd-a7c6-f6fbec5df525@1ca3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300630
-SUMMARY:4-week Session 3 classes begin
-UID:388fa2f2-3f8e-4395-aee3-b62c7bddf10c@388f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270817
-SUMMARY:Initial Fee Due Date
-UID:018b5918-ef00-41e5-8679-72e03aaded90@018b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210110
-SUMMARY:Semester and first-session classes begin
-UID:d0342d1f-9530-4a84-8abc-1e622bfed35b@d034.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231123
-SUMMARY:Thanksgiving Day - no classes\, offices closed
-UID:883f8375-475c-4e33-acc6-ddd76863f194@883f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20291225
-SUMMARY:Christmas - offices closed
-UID:0569410c-dfbd-48df-b69a-a4d9d7a6c1c6@0569.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260111
-SUMMARY:Semester and first-session classes begin
-UID:5361f8d2-f8e2-4992-8709-c12e691bc977@5361.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240120
-SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
-UID:d7d1dde8-d1ec-468d-9900-e372258d56ee@d7d1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260226
-SUMMARY:Last day of regularly scheduled first-session classes
-UID:f356590a-3814-4878-9817-4709999b8a7f@f356.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20301206
-DTEND;VALUE=DATE:20301213
-SUMMARY:Final examinations for semester and second-session classes
-UID:49c934c1-cf1f-4951-9494-4bc31409d1a8@49c9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230531
-SUMMARY:Last day of regularly scheduled 4-week Session 1 classes
-UID:d0d4da9c-7f87-42c9-a810-bfdd3e14a533@d0d4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270301
-SUMMARY:Second-session classes begin
-UID:24480ddd-a188-4222-ad87-1382939c55cb@2448.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250901
-SUMMARY:Labor Day - no classes\, offices closed
-UID:bbed8c51-fb6a-4eb3-ba59-f8fbc1303e3e@bbed.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20221124
-SUMMARY:Thanksgiving Day - no classes\, offices closed
-UID:3fdf2b3c-7780-415f-993d-22255ea4cf97@3fdf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300106
-SUMMARY:Semester and first-session classes begin
-UID:8e9700a7-6671-48ee-8e2f-c9b407796883@8e97.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290424
-DTEND;VALUE=DATE:20290501
-SUMMARY:Final examinations for semester and second-session classes
-UID:db630d27-ebe7-461b-939f-3db8904d2e16@db63.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241206
-DTEND;VALUE=DATE:20241213
-SUMMARY:Final examinations for semester and second-session classes
-UID:fa6d2862-88b4-4842-8a4b-bcb4e3b379ba@fa6d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240627
-SUMMARY:Last day of regularly scheduled 8-week Session 1 and 4-week Session 2 classes
-UID:6dd8f4d0-0b38-43b7-8ee5-eb28fae9cde8@6dd8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251212
-DTEND;VALUE=DATE:20251219
-SUMMARY:Final examinations for semester and second-session classes
-UID:ebf85012-9aaa-43d4-a895-9e871cbd2453@ebf8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240602
-SUMMARY:8-week Session 2 and 4-week Session 2 classes begin
-UID:2a77c66d-38e9-43ba-b3c7-df43722be923@2a77.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300101
-SUMMARY:New Year's Day - offices closed
-UID:62908024-92bf-4f53-874f-46f04437d2af@6290.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271125
-SUMMARY:Thanksgiving Day - no classes\, offices closed
-UID:40f7ac54-9969-4f09-a086-e4525209e552@40f7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290430
-SUMMARY:Initial Fee Due Date
-UID:b2944581-4f28-48a1-a302-d74694cf0517@b294.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210705
-SUMMARY:Enrollment Census Date (6-week Session 2)
-UID:37587895-97e2-4a8f-bf26-5900b9d47373@3758.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261125
-SUMMARY:Thanksgiving Break begins - no classes\, offices open
-UID:4cec4123-98c3-4c0d-bc3f-3e14c1e23a48@4cec.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260705
-SUMMARY:Enrollment Census Date (6-week Session 2)
-UID:a114fef5-5413-432d-9a1b-f87775d26218@a114.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20301111
-SUMMARY:Veterans Day observed - no classes\, offices closed
-UID:159486ae-0760-4bcf-98e7-aa8e32eac715@1594.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220301
-SUMMARY:Second-session classes begin
-UID:7aa1330f-af33-40fb-b5b3-67ec0656bd04@7aa1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260621
-SUMMARY:6-week Session 2 classes begin
-UID:a38aaa67-48ea-4f25-aa3a-8849f880ab49@a38a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280904
-SUMMARY:Labor Day - no classes\, offices closed
-UID:1bf39d80-bad9-4011-bd3b-db727d371d60@1bf3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300526
-SUMMARY:Memorial Day - no classes\, offices closed
-UID:44778518-a26d-4616-a4e3-83760c6febe9@4477.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300226
-SUMMARY:Second-session classes begin
-UID:6cfb2783-f0cd-4c7b-aa7a-15b527262292@6cfb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261225
-SUMMARY:Christmas - offices closed
-UID:8ce4c39b-7fd5-4a5a-8357-92389e5ede35@8ce4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251020
-SUMMARY:Second-session classes begin
-UID:f59836c5-8001-48b1-b131-ba9751630cec@f598.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280312
-DTEND;VALUE=DATE:20280317
-SUMMARY:Spring Break
-UID:6bc01e52-4d75-424c-843f-fb99e4c51758@6bc0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241224
-SUMMARY:President's Day Observed - offices closed
-UID:9ea758e7-5a73-45d9-9b23-dda8b3528f19@9ea7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250427
-SUMMARY:Last day of regularly scheduled semester and second-session classes
-UID:6da9c8f5-5312-4971-b3eb-85bc8233b2b1@6da9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210807
-SUMMARY:Summer Commencement
-UID:8652464a-4f69-40db-b396-09daa12e21ba@8652.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251224
-SUMMARY:President's Day Observed - offices closed
-UID:6c45605c-ff74-4091-9c2f-43727d7d7647@6c45.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260118
-SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
-UID:53d54fd1-129c-45b1-9bc7-241976344b4f@53d5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20221209
-DTEND;VALUE=DATE:20221216
-SUMMARY:Final examinations for semester and second-session classes
-UID:23643921-e379-4a31-9009-0fa570eaefdf@2364.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20281030
-SUMMARY:Enrollment Census Date (second-session)
-UID:cc1aa376-d87b-48df-86da-c94e412975c8@cc1a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-SUMMARY:Last day of regularly scheduled semester and second-session classes
-UID:e5c8575f-3666-42f1-b8e6-ce0be49bd527@e5c8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210617
-SUMMARY:Last day of regularly scheduled 6-week Session 1 classes
-UID:13476db7-d757-49b4-84bf-58d46a67d9c3@1347.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261012
-SUMMARY:Last day of regularly scheduled first-session classes
-UID:8ccdf3c3-0920-4e65-a809-06b06e8c1920@8ccd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260125
-SUMMARY:Enrollment Census Date (semester\, first-session)
-UID:028d5e35-966d-4988-aaef-37c16ff2f326@028d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270703
-SUMMARY:Last day of regularly scheduled 8-week Session 1 and 4-week Session 2 classes
-UID:f7db13aa-b81f-4f14-9ad7-874fcf3c318c@f7db.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250706
-SUMMARY:4-week Session 3 classes begin
-UID:27cd68b6-452b-4196-a315-55689f446e1c@27cd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230904
-SUMMARY:Labor Day - no classes\, offices closed
-UID:0e51844a-e8f8-4b62-8e17-53fe25c4c4c5@0e51.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270523
-SUMMARY:Enrollment Census Date (Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1)
-UID:1b671665-d2a4-4694-9b16-b6c3c52a08f8@1b67.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270728
-SUMMARY:Last day of regularly scheduled Summer Term\, 8-week Session 2\, 6-week Session 2\, and 4-week Session 3 classes
-UID:cb776249-9f7c-45bf-8b6e-b584ee5c8262@cb77.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20221111
-SUMMARY:Veterans Day observed - no classes\, offices closed
-UID:68e38618-7bf7-4f62-9473-a72f16443dc5@68e3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Thanksgiving Day - no classes\, offices closed
-UID:5ac90c3c-d0dc-433d-8df7-fe741d5bd7f4@5ac9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270124
-SUMMARY:Enrollment Census Date (semester\, first-session)
-UID:446d08b0-08eb-4bad-8c38-dbd6b2a8e662@446d.org
+UID:062cb9f4-d4a3-4a34-b36f-40009b542036@062c.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260510
 SUMMARY:Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1 classes begin
-UID:81b1ae86-566e-48cb-8c8b-8e5369692446@81b1.org
+UID:b72a393d-e5c6-4ee9-9643-2537137cf81e@b72a.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20291005
-SUMMARY:Last day of regularly scheduled first-session classes
-UID:9f737912-b0a5-42aa-a82f-eaf56a28a99a@9f73.org
+DTSTART;VALUE=DATE:20280508
+SUMMARY:Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1 classes begin
+UID:795c58ac-73e7-4e95-b868-033de170ae17@795c.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260729
-SUMMARY:Last day of regularly scheduled Summer Term\, 8-week Session 2\, 6-week Session 2\, and 4-week Session 3 classes
-UID:b11dd1dd-fb51-4e71-937a-746446411f35@b11d.org
+DTSTART;VALUE=DATE:20250706
+SUMMARY:4-week Session 3 classes begin
+UID:8719a7c6-176c-443d-b1be-39e6495119a4@8719.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220502
-SUMMARY:Initial Fee Due Date
-UID:78feeb53-3d30-45dd-b32d-03ad828590c8@78fe.org
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261017
+SUMMARY:Autumn Break - no classes\, offices open
+UID:739dfa20-6e46-4b65-af3d-c84d7df9cfd7@739d.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210817
-SUMMARY:Initial Fee Due Date
-UID:87c9a2a8-17a2-424a-a693-b7b6a6952247@87c9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220315
-SUMMARY:Enrollment Census Date (second-session)
-UID:1fd974d7-c607-42f1-946c-8391b70d293b@1fd9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231110
-SUMMARY:Veterans Day observed - no classes\, offices closed
-UID:c5329e55-1763-42d7-a736-27f25c746461@c532.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20221017
-SUMMARY:Second-session classes begin
-UID:4663fae6-a508-4e31-afb8-26e6bbcbfc67@4663.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260104
-SUMMARY:Initial Fee Due Date
-UID:63ddf146-efde-4c44-baee-76c12a7e9f61@63dd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290628
-SUMMARY:Last day of regularly scheduled 8-week Session 1 and 4-week Session 2 classes
-UID:1c5308b1-00c7-4d52-9e11-d3a375db3cb9@1c53.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230804
-SUMMARY:Summer Commencement
-UID:06fc7ccf-964b-4fbb-b984-dbb16ba8569f@06fc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241014
-SUMMARY:Second-session classes begin
-UID:aaec2bc6-6f34-4847-bba7-61cb417bf984@aaec.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220620
-SUMMARY:6-week Session 2 classes begin
-UID:44b93781-8716-4dc2-be48-a1b56b079b6c@44b9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20211011
-SUMMARY:Last day of regularly scheduled first-session classes
-UID:7a7d497a-4d12-4920-a611-b105d2a4e00c@7a7d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240421
-SUMMARY:Last day of regularly scheduled semester and second-session classes
-UID:2a6e9eed-6fcc-4cfc-94ef-82cfb9138df7@2a6e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210124
-SUMMARY:Enrollment Census Date (semester\, first-session)
-UID:ede8e4eb-c892-410c-8520-3b1dea381f6d@ede8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250126
-SUMMARY:Enrollment Census Date (semester\, first-session)
-UID:5e064b76-6244-4717-8d9a-ec18cda55742@5e06.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290603
-SUMMARY:8-week Session 2 and 4-week Session 2 classes begin
-UID:831e509a-c625-45aa-a7e1-6c8da055de9e@831e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240613
-SUMMARY:Last day of regularly scheduled 6-week Session 1 classes
-UID:6788af30-1fea-460c-a020-c8f55d6ab1b6@6788.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300619
-SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
-UID:d9159362-205d-47f1-877a-d85c1fd350ed@d915.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251128
-SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
-UID:fc80449e-07ee-4d86-a61b-8c842cbce543@fc80.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231009
-SUMMARY:Last day of regularly scheduled first-session classes
-UID:d40ca429-2a6d-4468-b177-339369bde165@d40c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20291010
-SUMMARY:Second-session classes begin
-UID:328766f5-96f5-427b-8911-48bc9eee7614@3287.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220619
-SUMMARY:Enrollment Census Date (8-week Session 2\, 4-week Session 2)
-UID:4d98a323-c03f-4bc1-a352-2a9dcb2d9f6a@4d98.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230905
-SUMMARY:Enrollment Census Date (semester\, first-session)
-UID:e4f1f62d-6fa9-4231-a405-6e1161d502c5@e4f1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251221
-SUMMARY:Autumn Commencement
-UID:3a8f57c7-323b-4516-ab8f-b5bb93e882f8@3a8f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280905
-SUMMARY:Enrollment Census Date (semester\, first-session)
-UID:4b12ef1f-0b66-4af8-9783-f65e2c5e2ee9@4b12.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20281206
-SUMMARY:Last day of regularly scheduled semester and second-session classes
-UID:6f838c72-8ccb-4faf-8fc0-0da0ea40501c@6f83.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230422
-SUMMARY:Last day of regularly scheduled semester and second-session classes
-UID:9d950230-3d22-495b-913b-acc7159d8082@9d95.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251111
-SUMMARY:Veterans Day observed - no classes\, offices closed
-UID:54c133ce-5d1e-4816-833d-0adbbaf46867@54c1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240526
-SUMMARY:Memorial Day - no classes\, offices closed
-UID:f5858e8a-539c-428f-88e5-1bcff487f675@f585.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230726
-SUMMARY:Last day of regularly scheduled Summer Term\, 8-week Session 2\, 6-week Session 2\, and 4-week Session 3 classes
-UID:9eae5abc-d3e8-4238-9f56-b46bebfd1e5f@9eae.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20221123
-SUMMARY:Thanksgiving Break begins - no classes\, offices open
-UID:526bee9e-f165-438b-ac36-6b157128adae@526b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250304
-SUMMARY:Second-session classes begin
-UID:6a5f8fad-97cd-4846-a555-6d0245dc5cef@6a5f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240101
-SUMMARY:New Year's Day - offices closed
-UID:8175b8b3-181c-4fb9-bd18-403f1162f31d@8175.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300630
-SUMMARY:Enrollment Census Date (6-week Session 2)
-UID:f05f7558-3a48-4e80-8159-6308de7946cf@f05f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270502
-SUMMARY:Initial Fee Due Date
-UID:b0da8920-aaea-4ed7-a3c4-d3daf5cb184a@b0da.org
+DTSTART;VALUE=DATE:20270705
+SUMMARY:4-week Session 3 classes begin
+UID:afec207b-e0bb-486a-a718-c87a5d3d1822@afec.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210719
 SUMMARY:Enrollment Census Date (4-week Session 3)
-UID:f4a7e7ce-cdba-4a2c-a5bb-188abdd73e75@f4a7.org
+UID:68e7e713-46f8-441f-8951-2333eca5dde4@68e7.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300421
-SUMMARY:Last day of regularly scheduled semester and second-session classes
-UID:4632c48d-dd54-4f32-9f59-d857665c7cce@4632.org
+DTSTART;VALUE=DATE:20240630
+SUMMARY:4-week Session 3 classes begin
+UID:d65c37da-3d8e-40c6-804c-fe80d6ebab5f@d65c.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300803
-SUMMARY:Summer Commencement
-UID:7fb702d7-a803-4241-8dde-cd5a689e3921@7fb7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250429
-DTEND;VALUE=DATE:20250506
-SUMMARY:Final examinations for semester and second-session classes
-UID:e2bbdf7b-7fd9-4955-9292-9cde2107a4fd@e2bb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271231
-SUMMARY:New Year's Day - offices closed
-UID:0d70ebb6-9fe7-46b2-96f9-ac4bab213494@0d70.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220605
-SUMMARY:8-week Session 2 and 4-week Session 2 classes begin
-UID:b275d728-e48a-423e-82f7-9509a67bd5da@b275.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260825
-SUMMARY:Semester and first-session classes begin
-UID:35715fd7-9753-441d-949c-38e93fa43d2e@3571.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210302
-SUMMARY:Second-session classes begin
-UID:e5a92478-4324-4415-b576-59e5370f8cda@e5a9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210606
-SUMMARY:8-week Session 2 and 4-week Session 2 classes begin
-UID:5e41afb7-da22-4bbd-8a93-526708715fdd@5e41.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230505
-SUMMARY:Spring Commencement
-UID:cdfe6c72-010d-4eda-b699-33820b3086c0@cdfe.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260908
-SUMMARY:Enrollment Census Date (semester\, first-session)
-UID:c808218b-c986-4245-a3cf-742985541587@c808.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250819
-SUMMARY:Initial Fee Due Date
-UID:16b8814d-2345-473c-9f1f-6da00a388979@16b8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241204
-SUMMARY:Last day of regularly scheduled semester and second-session classes
-UID:7deef173-9a71-4d8d-b6e7-031ed8eab86f@7dee.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300504
-SUMMARY:Spring Commencement
-UID:d4271b92-494f-4697-b638-25301d542726@d427.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230822
-SUMMARY:Semester and first-session classes begin
-UID:2aba0b1f-8a03-4590-8ffb-d557532572a3@2aba.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260315
-DTEND;VALUE=DATE:20260320
-SUMMARY:Spring Break
-UID:e2e11120-b953-4d58-bb2e-2562cc884d5d@e2e1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220602
-SUMMARY:Last day of regularly scheduled 4-week Session 1 classes
-UID:4209b1bc-ed6a-4334-b152-2ac8df5d9967@4209.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280629
-SUMMARY:Last day of regularly scheduled 8-week Session 1 and 4-week Session 2 classes
-UID:4af7a12d-e78e-4e5d-a9ad-312db4efa6da@4af7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270806
-SUMMARY:Summer Commencement
-UID:da3cac5c-861f-46ad-9b00-4bbc29fe304b@da3c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240619
-SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
-UID:2148ff34-7b65-4e59-89dd-86f69e532e8a@2148.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220731
-DTEND;VALUE=DATE:20220803
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260805
 SUMMARY:Final examinations for Summer Term*
-UID:08f0539f-18b6-450d-b75d-e00eacbc7125@08f0.org
+UID:71e83ab9-4f21-41a7-b2d8-a800c1c16807@71e8.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300602
-SUMMARY:8-week Session 2 and 4-week Session 2 classes begin
-UID:7953b78b-bf9e-4421-85fd-e9c7bd415d86@7953.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290804
-SUMMARY:Summer Commencement
-UID:77b563a6-4625-4284-888e-3e689ab542be@77b5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290813
-SUMMARY:Initial Fee Due Date
-UID:ede2678e-aada-4303-a1e0-bf6f3d38df36@ede2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20211018
-SUMMARY:Second-session classes begin
-UID:1fbc78db-61dd-4b30-882a-aa0e922c91f0@1fbc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20291231
-SUMMARY:Initial Fee Due Date
-UID:25542a16-ae75-4826-9a7a-ef7827443ee8@2554.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20221223
-SUMMARY:President's Day Observed - offices closed
-UID:16b7dcde-ff7b-44b2-92f1-336823f56ff8@16b7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290619
+DTSTART;VALUE=DATE:20250619
 SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
-UID:17a4148e-54b8-4129-8cfc-56cf7f7513d7@17a4.org
+UID:636d572e-7787-41b3-bda5-af890661aac1@636d.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241127
-SUMMARY:Thanksgiving Break begins - no classes\, offices open
-UID:522c0e3e-2a00-429e-8b40-b6ee28565c29@522c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210503
-SUMMARY:Initial Fee Due Date
-UID:97148f4d-d1ba-4f00-99b8-fa1e0a804d33@9714.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290527
-SUMMARY:Memorial Day - no classes\, offices closed
-UID:755e329a-6880-4d2c-a491-b5a15c05a94f@755e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20281016
-SUMMARY:Second-session classes begin
-UID:ec1ee348-920b-49f2-91f1-ec3625fcc963@ec1e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290222
-SUMMARY:Last day of regularly scheduled first-session classes
-UID:c3bc8af6-a6a7-46a8-aadb-e5d2ba45ada9@c3bc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300506
-SUMMARY:Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1 classes begin
-UID:e19a3f10-7eed-470f-b420-54a05a97e44c@e19a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250720
-SUMMARY:Enrollment Census Date (4-week Session 3)
-UID:cb314775-19ef-4829-a343-ca62c5f3d0a0@cb31.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280618
-SUMMARY:6-week Session 2 classes begin
-UID:75cd7e3a-9eef-4118-8470-b84f942d6167@75cd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20291008
-DTEND;VALUE=DATE:20291010
-SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
-UID:1b1e99c9-7fa8-4591-b8be-cd3faa3b127e@1b1e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250809
+DTSTART;VALUE=DATE:20260808
 SUMMARY:Summer Commencement
-UID:48eaae83-de77-4dff-9101-c4e439464ba2@48ea.org
+UID:df21e6ab-a37b-4c62-ae2b-42ef8d84fe93@df21.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240506
-SUMMARY:Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1 classes begin
-UID:ba926d86-f596-4dbf-aaf1-ab017c20f4d2@ba92.org
+DTSTART;VALUE=DATE:20210906
+SUMMARY:Labor Day - no classes\, offices closed
+UID:889261e0-a896-4179-a041-ae9bc5e591b3@8892.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20221031
-SUMMARY:Enrollment Census Date (second-session)
-UID:87e37b8e-e708-45d9-b673-612c39bc1751@87e3.org
+DTSTART;VALUE=DATE:20210729
+SUMMARY:Last day of regularly scheduled Summer Term\, 8-week Session 2\, 6-week Session 2\, and 4-week Session 3 classes
+UID:98d8fa89-6e11-491d-bc44-615d995aa121@98d8.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250119
-SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
-UID:31f4e1d3-e2e1-443e-9574-a1b33a3945da@31f4.org
+DTSTART;VALUE=DATE:20240423
+DTEND;VALUE=DATE:20240430
+SUMMARY:Final examinations for semester and second-session classes
+UID:c610d24d-7332-4d7e-9d9b-48cb328a5c0c@c610.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280115
-SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
-UID:b5126645-dfef-4e77-a132-b6233f03fb32@b512.org
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Thanksgiving Break begins - no classes\, offices open
+UID:b7f7876b-34aa-4d11-9588-c9fd75304e4b@b7f7.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290227
+DTSTART;VALUE=DATE:20261209
+SUMMARY:Last day of regularly scheduled semester and second-session classes
+UID:f4427c9c-3943-4111-be39-1fc53af649a4@f442.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280228
 SUMMARY:Second-session classes begin
-UID:96a099e6-2b50-4246-87df-f88572719cff@96a0.org
+UID:519853c5-896b-4455-b1e0-f7bcbe8f3cbb@5198.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280522
-SUMMARY:Enrollment Census Date (Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1)
-UID:9e79b9ff-fb7a-4bd2-95b8-04bba003d875@9e79.org
+DTSTART;VALUE=DATE:20270824
+SUMMARY:Semester and first-session classes begin
+UID:3c33f49d-8f45-4b2a-8c72-ef9f8a0f6657@3c33.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290521
-SUMMARY:Enrollment Census Date (Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1)
-UID:47781cdc-08f6-4e5a-ba70-57705e939812@4778.org
+DTSTART;VALUE=DATE:20281206
+SUMMARY:Last day of regularly scheduled semester and second-session classes
+UID:a95e39cb-195a-468e-94dc-16153a428d97@a95e.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260503
-SUMMARY:Initial Fee Due Date
-UID:c9f91744-32c8-4fba-bfcb-a9516bccf5aa@c9f9.org
+DTSTART;VALUE=DATE:20250126
+SUMMARY:Enrollment Census Date (semester\, first-session)
+UID:80d623ce-8c45-42c3-be6c-800396dd77c3@80d6.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230704
+DTSTART;VALUE=DATE:20290704
 SUMMARY:Independence Day - no classes\, offices closed
-UID:c58a9dc9-c677-4725-9090-4fed3b1bcefe@c58a.org
+UID:3ae12dcc-7e5c-4149-a1e7-b47c99a9d88e@3ae1.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251127
-SUMMARY:Thanksgiving Day - no classes\, offices closed
-UID:8115856a-8ceb-4e27-9164-0b31cf9f52f9@8115.org
+DTSTART;VALUE=DATE:20270117
+SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
+UID:4f273b22-f622-401e-a3c4-2d7631f865e6@4f27.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231226
+SUMMARY:President's Day Observed - offices closed
+UID:d63a7286-bb01-4a39-8f21-9b98b8fd8249@d63a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290101
+SUMMARY:New Year's Day - offices closed
+UID:a3ddbf5e-45ee-40fd-a029-51df5167c2f7@a3dd.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240616
 SUMMARY:Enrollment Census Date (8-week Session 2\, 4-week Session 2)
-UID:350aa91e-486a-40f3-9712-420fd878ccbe@350a.org
+UID:f0e1dcb2-615c-4c32-a485-9e80e6f40a8a@f0e1.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220816
-SUMMARY:Initial Fee Due Date
-UID:bdf1aa21-57c1-430e-b3dd-723101eabbb2@bdf1.org
+DTSTART;VALUE=DATE:20250605
+SUMMARY:8-week Session 2 and 4-week Session 2 classes begin
+UID:ffa52bc2-62b8-46c1-8dc6-8222a9e5346b@ffa5.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250504
-SUMMARY:Initial Fee Due Date
-UID:f8ffd7e9-4580-440b-a69c-faff3e8e1c3e@f8ff.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271224
-SUMMARY:Christmas - offices closed
-UID:9bec73d9-0509-4843-87e6-970e6674e453@9bec.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271124
-SUMMARY:Thanksgiving Break begins - no classes\, offices open
-UID:57039995-d63e-418a-bcbe-988ecad3a83d@5703.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280727
-SUMMARY:Last day of regularly scheduled Summer Term\, 8-week Session 2\, 6-week Session 2\, and 4-week Session 3 classes
-UID:ad29271f-8e7c-4ac5-8a6f-9ebb89f5de4d@ad29.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261015
-SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
-UID:6d8ff9b2-4622-4cf6-9139-c7c5d24b3aec@6d8f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240312
-SUMMARY:Enrollment Census Date (second-session)
-UID:99b98a00-b82c-47ce-9e75-3cdf2026884e@99b9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250730
-SUMMARY:Last day of regularly scheduled Summer Term\, 8-week Session 2\, 6-week Session 2\, and 4-week Session 3 classes
-UID:b1541152-42f5-4391-96ae-3b49bf5552f1@b154.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20211124
-SUMMARY:Thanksgiving Break begins - no classes\, offices open
-UID:ef4ade6d-11bd-4dec-81c3-00cc6db27002@ef4a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220703
-SUMMARY:4-week Session 3 classes begin
-UID:b9c1a11b-6a86-4e0f-9b84-c5cd9b03f714@b9c1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240120
-SUMMARY:Enrollment Census Date (semester\, first-session)
-UID:376a517c-7c08-4f95-829e-5610aa1b403e@376a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230228
-SUMMARY:Second-session classes begin
-UID:2c3b0da5-760c-471b-8274-ded7a8cd3e1c@2c3b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240728
-DTEND;VALUE=DATE:20240731
-SUMMARY:Final examinations for Summer Term*
-UID:43bb9f37-ad03-48e7-b32e-53d4df83f8c3@43bb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250909
-SUMMARY:Enrollment Census Date (semester\, first-session)
-UID:51deb13c-51bc-4691-98a9-b54d4adc0dfd@51de.org
+DTSTART;VALUE=DATE:20260621
+SUMMARY:6-week Session 2 classes begin
+UID:8df05810-0590-4de3-9a9d-c3e339889a4e@8df0.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281208
 DTEND;VALUE=DATE:20281215
 SUMMARY:Final examinations for semester and second-session classes
-UID:ff056c41-9d38-4e84-8ec1-f8fd2e6952fd@ff05.org
+UID:3fb62b85-d6cb-461e-b2e9-a7901bee0e4a@3fb6.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240520
-SUMMARY:Enrollment Census Date (Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1)
-UID:306cf643-0038-44d8-96ac-f215ffbec59b@306c.org
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Thanksgiving Day - no classes\, offices closed
+UID:b0a70d64-46f3-4ec1-97f7-a7dd9c2dda8d@b0a7.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240616
-SUMMARY:6-week Session 2 classes begin
-UID:e256112c-14c3-47de-8ae1-75e7ebfb013c@e256.org
+DTSTART;VALUE=DATE:20220116
+SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
+UID:0ff80681-27c9-4398-90dd-f84a875d9524@0ff8.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210620
+DTSTART;VALUE=DATE:20211224
+SUMMARY:Christmas - offices closed
+UID:2c570b44-4816-4cd0-b015-eb2883175956@2c57.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271224
+SUMMARY:Christmas - offices closed
+UID:15c9235c-c991-4c2f-96c2-b5b8ee834b9a@15c9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231206
+SUMMARY:Last day of regularly scheduled semester and second-session classes
+UID:6084f8ae-4534-4418-b934-87529be79e91@6084.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280905
+SUMMARY:Enrollment Census Date (semester\, first-session)
+UID:eb7d771a-30a0-484d-89f3-385dbf42f794@eb7d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220509
+SUMMARY:Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1 classes begin
+UID:756daa56-c2ec-4b47-b830-ffefacc3dd97@756d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210530
+SUMMARY:Memorial Day - no classes\, offices closed
+UID:db133a86-94f4-44ee-afee-561310f771fd@db13.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220728
+SUMMARY:Last day of regularly scheduled Summer Term\, 8-week Session 2\, 6-week Session 2\, and 4-week Session 3 classes
+UID:07919889-3766-4b83-941a-c3095af60dd7@0791.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270703
+SUMMARY:Last day of regularly scheduled 8-week Session 1 and 4-week Session 2 classes
+UID:2d4f0ebe-9048-454f-9409-0f31ce3de256@2d4f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280704
+SUMMARY:Independence Day - no classes\, offices closed
+UID:716e27be-0b0c-48e9-b0d0-6e78ed227108@716e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260907
+SUMMARY:Labor Day - no classes\, offices closed
+UID:18dc9792-7823-45d0-93a0-81090ac25c66@18dc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301230
+SUMMARY:Initial Fee Due Date
+UID:4c40da14-f690-49d5-bfa7-62538970e1ad@4c40.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261218
+SUMMARY:Final examinations for semester and second-session classes
+UID:2559d13d-a1db-47dd-b7a0-7c3d5601bf9f@2559.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260604
+SUMMARY:8-week Session 2 and 4-week Session 2 classes begin
+UID:5e17e427-5167-4317-808c-0bbcf5a892ac@5e17.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240902
+SUMMARY:Labor Day - no classes\, offices closed
+UID:aab8699f-6535-48c8-96a4-a4d5c4865622@aab8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231009
+SUMMARY:Last day of regularly scheduled first-session classes
+UID:d9fffb19-a541-4081-99c9-df5192811343@d9ff.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260705
+SUMMARY:Enrollment Census Date (6-week Session 2)
+UID:46882b1d-d763-4c30-bc93-339708e584a7@4688.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300704
+SUMMARY:Independence Day - no classes\, offices closed
+UID:a60dfa2a-b226-4c51-af32-08ea229dc2ad@a60d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240903
+SUMMARY:Enrollment Census Date (semester\, first-session)
+UID:1bc51ca9-6b7e-495f-93e5-c9dd3c6ec05b@1bc5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230122
+SUMMARY:Enrollment Census Date (semester\, first-session)
+UID:e0bccbab-718c-4dbc-a67f-b63749b7957b@e0bc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300310
+DTEND;VALUE=DATE:20300315
+SUMMARY:Spring Break
+UID:d6390244-e7f4-48cc-a3a7-78ab12509817@d639.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240312
+SUMMARY:Enrollment Census Date (second-session)
+UID:6a85164b-ab93-48b0-b1ea-05e626a9cd6c@6a85.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290531
+SUMMARY:Last day of regularly scheduled 4-week Session 1 classes
+UID:40a90909-216a-41c6-90db-0d2a1a715d73@40a9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260618
 SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
-UID:34a56c56-38fd-4072-a907-7486eb836870@34a5.org
+UID:153cf670-fa68-4903-ad64-93f7fc69e154@153c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270315
+SUMMARY:Enrollment Census Date (second-session)
+UID:f5499aeb-06dd-478f-b44e-34bfa9c4866e@f549.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300120
+SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
+UID:516e123e-09a7-4df6-9833-0c8926da630d@516e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270619
+SUMMARY:Enrollment Census Date (8-week Session 2\, 4-week Session 2)
+UID:c71cd0d9-aefb-4430-9544-bac9a71f1b73@c71c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280312
+DTEND;VALUE=DATE:20280317
+SUMMARY:Spring Break
+UID:18d9ff36-1a1e-46f5-a8fc-61c688f03944@18d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291011
+DTEND;VALUE=DATE:20291013
+SUMMARY:Autumn Break - no classes\, offices open
+UID:b6e7ee08-0488-413a-a8ff-60266f6700e8@b6e7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250720
+SUMMARY:Enrollment Census Date (4-week Session 3)
+UID:c393db6a-33dd-4587-ae43-d6a60d09029a@c393.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290527
+SUMMARY:Memorial Day - no classes\, offices closed
+UID:4619a1a3-00ed-4a10-abe4-ca89d4dda662@4619.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291204
+SUMMARY:Last day of regularly scheduled semester and second-session classes
+UID:a71bc5f1-65b1-4f46-91c0-f9dd1be6fd25@a71b.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250702
 SUMMARY:Last day of regularly scheduled 8-week Session 1 and 4-week Session 2 classes
-UID:49b9a14c-965b-47be-b2b8-02e1bf5730c3@49b9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220704
-SUMMARY:Enrollment Census Date (6-week Session 2)
-UID:863d559b-1ea9-433f-a25a-4d1a56d1c628@863d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240725
-SUMMARY:Last day of regularly scheduled Summer Term\, 8-week Session 2\, 6-week Session 2\, and 4-week Session 3 classes
-UID:0b94ed99-9d0a-4f2f-bd8e-ae30e9996c34@0b94.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270907
-SUMMARY:Enrollment Census Date (semester\, first-session)
-UID:97ac78cf-598a-4902-8bcb-320a0224d1e3@97ac.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240803
-SUMMARY:Summer Commencement
-UID:e5fa2866-16bf-42b2-9331-5ad5ac42f8f4@e5fa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280604
-SUMMARY:8-week Session 2 and 4-week Session 2 classes begin
-UID:cf00ff5e-fed3-48e3-9813-5e636f6612dd@cf00.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270426
-DTEND;VALUE=DATE:20270503
-SUMMARY:Final examinations for semester and second-session classes
-UID:7a6cd4a1-65b0-414b-9682-71690e261278@7a6c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260701
-SUMMARY:Last day of regularly scheduled 8-week Session 1 and 4-week Session 2 classes
-UID:bce9ec18-cd8c-4380-bc6f-2b42bf316d43@bce9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210729
-SUMMARY:Last day of regularly scheduled Summer Term\, 8-week Session 2\, 6-week Session 2\, and 4-week Session 3 classes
-UID:50140b96-5956-4a2d-9e4a-cabb2ff43f1f@5014.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290903
-SUMMARY:Labor Day - no classes\, offices closed
-UID:fca3d9ba-057f-4288-a681-08fe4c2483d4@fca3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270602
-SUMMARY:Last day of regularly scheduled 4-week Session 1 classes
-UID:202d6d0a-fdfd-4ea0-a012-ab2cece9d900@202d.org
+UID:caf04739-aa98-4d0c-b9f4-01ed278f47a8@caf0.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221013
 DTEND;VALUE=DATE:20221015
 SUMMARY:Autumn Break - no classes\, offices open
-UID:ce0f61a9-236d-4c5a-a52e-084483c80b2c@ce0f.org
+UID:a4543c74-b652-4ea9-9718-ac178552d4b7@a454.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280314
-SUMMARY:Enrollment Census Date (second-session)
-UID:9b562112-e622-4515-98e2-6bb42ae336b6@9b56.org
+DTSTART;VALUE=DATE:20211208
+SUMMARY:Last day of regularly scheduled semester and second-session classes
+UID:b865b1fd-1ceb-47c0-aea0-ed3fb560f990@b865.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270824
+DTSTART;VALUE=DATE:20250304
+SUMMARY:Second-session classes begin
+UID:b809413c-5970-4e3c-8d7f-6faec9167a9d@b809.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260701
+SUMMARY:Last day of regularly scheduled 8-week Session 1 and 4-week Session 2 classes
+UID:efc90bd5-021f-42e1-9fe0-01ea0c9bbed3@efc9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290628
+SUMMARY:Last day of regularly scheduled 8-week Session 1 and 4-week Session 2 classes
+UID:0eed050b-9a0e-47ad-99e1-1be98f5988b9@0eed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220906
+SUMMARY:Enrollment Census Date (semester\, first-session)
+UID:d685c631-63bf-4712-807f-101e81f7f902@d685.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211126
+SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
+UID:c4e5731b-3151-40e9-b6bc-0e2a7bdebd7f@c4e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250706
+SUMMARY:Enrollment Census Date (6-week Session 2)
+UID:c3334ab2-9393-4360-8ae6-bb759e523a2d@c333.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290903
+SUMMARY:Enrollment Census Date (semester\, first-session)
+UID:8088b675-d382-491c-8a93-0fae8d4708d0@8088.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251128
+SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
+UID:ff7aec82-1e53-4902-a6f5-1219d42376ac@ff7a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221207
+SUMMARY:Last day of regularly scheduled semester and second-session classes
+UID:00b0d4a4-f6ff-4003-a36a-6f7174934d16@00b0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210621
+SUMMARY:6-week Session 2 classes begin
+UID:b32040d3-be15-48ea-b1c5-271b4b9fd248@b320.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280702
+SUMMARY:4-week Session 3 classes begin
+UID:9585b270-4390-4e04-b67c-0d251645cf8c@9585.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220823
 SUMMARY:Semester and first-session classes begin
-UID:1f067024-9cf7-4062-bcca-e5b43acda60e@1f06.org
+UID:68b05350-111a-46b1-80e2-0f9dae2945c9@68b0.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220116
+DTSTART;VALUE=DATE:20280102
+SUMMARY:Initial Fee Due Date
+UID:0cc1e925-bfef-4a57-826a-6fb118f14760@0cc1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280815
+SUMMARY:Initial Fee Due Date
+UID:5ff5e929-2b8e-464b-aaae-697ac1dcf066@5ff5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290820
+SUMMARY:Semester and first-session classes begin
+UID:d4e87efe-ec55-4cb7-919c-db57371784e4@d4e8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281012
+DTEND;VALUE=DATE:20281014
+SUMMARY:Autumn Break - no classes\, offices open
+UID:4350e18f-1942-4f5c-a32a-ace3b237e594@4350.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290121
+SUMMARY:Enrollment Census Date (semester\, first-session)
+UID:64abcb42-f6d2-4c93-9a09-a490157f1bbf@64ab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300221
+SUMMARY:Last day of regularly scheduled first-session classes
+UID:b2f4e319-0442-4264-af24-a656a93fb37f@b2f4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261019
+SUMMARY:Second-session classes begin
+UID:bc383a96-8d21-4f41-94d0-e853efb6338c@bc38.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210427
+DTEND;VALUE=DATE:20210504
+SUMMARY:Final examinations for semester and second-session classes
+UID:2ad7ac7a-1073-4107-a56f-d772bab9e41c@2ad7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300520
+SUMMARY:Enrollment Census Date (Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1)
+UID:5eabdf43-0e41-4350-9394-4a2d410526b9@5eab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300725
+SUMMARY:Last day of regularly scheduled Summer Term\, 8-week Session 2\, 6-week Session 2\, and 4-week Session 3 classes
+UID:44b79bac-f34c-474d-9354-4864faafebce@44b7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250819
+SUMMARY:Initial Fee Due Date
+UID:c600d991-fc03-4038-b2b8-1bcd439236dc@c600.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270906
+SUMMARY:Labor Day - no classes\, offices closed
+UID:c65c9810-f695-4bbf-b7cc-42cd8783fb05@c65c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260509
+SUMMARY:Spring Commencement
+UID:e1280adf-6d42-4119-9ce4-4d0b9810754b@e128.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210701
+SUMMARY:Last day of regularly scheduled 8-week Session 1 and 4-week Session 2 classes
+UID:aa403e0d-79ae-44d2-a4aa-4932ee8470ca@aa40.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270507
+SUMMARY:Spring Commencement
+UID:a7575e65-bbfc-4431-a708-cd0f6e6606f4@a757.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210705
+SUMMARY:4-week Session 3 classes begin
+UID:6c9cda85-60f5-4cfd-8d52-9eae0f37ee04@6c9c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240310
+DTEND;VALUE=DATE:20240315
+SUMMARY:Spring Break
+UID:485c46ab-c18c-49c9-9ad8-4611263b65fe@485c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231123
+SUMMARY:Thanksgiving Day - no classes\, offices closed
+UID:ae97e874-f943-414e-9758-9d277452ad92@ae97.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280716
+SUMMARY:Enrollment Census Date (4-week Session 3)
+UID:74cc8ecc-43c3-4f48-b483-4b8111be7e95@74cc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260603
+SUMMARY:Last day of regularly scheduled 4-week Session 1 classes
+UID:06071f99-4ca8-46c0-ac2b-c25a66bd5ecd@0607.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290617
+SUMMARY:Enrollment Census Date (8-week Session 2\, 4-week Session 2)
+UID:ebbbf7e3-5176-46ee-ad0e-9e328a5f333a@ebbb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280115
 SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
-UID:b9f19935-6fc1-4e86-aa35-0568ab39e180@b9f1.org
+UID:244a6c69-de56-4d11-92e6-e1bbc8760789@244a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290521
+SUMMARY:Enrollment Census Date (Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1)
+UID:fd111ac0-c682-4ee2-a968-857d97729d45@fd11.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210124
+SUMMARY:Enrollment Census Date (semester\, first-session)
+UID:c7437914-69bb-43bb-8ce0-ebe26a7a64bf@c743.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210117
+SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
+UID:086df1be-b5a8-4c90-ac02-c11e3890b0d5@086d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281030
+SUMMARY:Enrollment Census Date (second-session)
+UID:9d01a22a-f54f-40f3-bab9-f703c7b0f43c@9d01.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230715
+SUMMARY:Enrollment Census Date (4-week Session 3)
+UID:fc7358ab-cdc9-407b-921c-0ae3c44b0c0b@fc73.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230726
+SUMMARY:Last day of regularly scheduled Summer Term\, 8-week Session 2\, 6-week Session 2\, and 4-week Session 3 classes
+UID:67b7fb50-6b61-4603-b1c1-9d34210a70b5@67b7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241230
+SUMMARY:Initial Fee Due Date
+UID:e2ebd10a-5be6-4277-a87c-cc53949c65c1@e2eb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301225
+SUMMARY:Christmas - offices closed
+UID:68bfbde4-18c2-4e98-80a2-8761f7060c8b@68bf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270803
+SUMMARY:Final examinations for Summer Term*
+UID:fd110a51-5f49-4f29-b4f8-b0b9c44a1e63@fd11.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300616
+SUMMARY:6-week Session 2 classes begin
+UID:fc244618-da32-411c-b0b9-08b58b182500@fc24.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241007
+SUMMARY:Last day of regularly scheduled first-session classes
+UID:1d64fd57-bc29-4ffb-a943-e3302fa28f5e@1d64.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260104
+SUMMARY:Initial Fee Due Date
+UID:6fed88b7-976b-42ca-a94c-21645c27550d@6fed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300627
+SUMMARY:Last day of regularly scheduled 8-week Session 1 and 4-week Session 2 classes
+UID:d0657601-c9db-4fa2-b43e-8ce019a52e4c@d065.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260111
+SUMMARY:Semester and first-session classes begin
+UID:9d7ebbc2-cbe0-479f-b93c-45b6cd475885@9d7e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241128
+SUMMARY:Thanksgiving Day - no classes\, offices closed
+UID:bd9f97c3-931f-47b0-8e8a-835afd9a73f7@bd9f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251221
+SUMMARY:Autumn Commencement
+UID:ab3b02b5-4e8f-4a85-9e09-13b971e51bf2@ab3b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220523
+SUMMARY:Enrollment Census Date (Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1)
+UID:441b6922-9a9c-4328-8917-1f0761830693@441b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230101
+SUMMARY:New Year's Day - offices closed
+UID:5a6a6850-1443-4aee-82e4-6f7b0d4e5d7e@5a6a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250730
+SUMMARY:Last day of regularly scheduled Summer Term\, 8-week Session 2\, 6-week Session 2\, and 4-week Session 3 classes
+UID:8e64f95b-dabf-43ae-ab07-040e7f12a0d5@8e64.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280223
+SUMMARY:Last day of regularly scheduled first-session classes
+UID:c5e6834d-db19-4c9c-b9f5-6b929e135758@c5e6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260125
+SUMMARY:Enrollment Census Date (semester\, first-session)
+UID:0df199b0-957e-46fe-bdba-8dbbe81370af@0df1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300602
+SUMMARY:8-week Session 2 and 4-week Session 2 classes begin
+UID:d9c73109-b537-4325-bfc3-90a46f919391@d9c7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250826
+SUMMARY:Semester and first-session classes begin
+UID:dd6384a2-924b-488d-8237-bdfe89e1398c@dd63.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230115
+SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
+UID:260ffc7f-0a96-478d-b9df-bf9b4f620076@260f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270602
+SUMMARY:Last day of regularly scheduled 4-week Session 1 classes
+UID:9c5c298a-62f7-4616-9646-ba9f7a756130@9c5c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300803
+SUMMARY:Summer Commencement
+UID:53c7ffb8-8737-4f2c-958d-1e0499834f82@53c7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280615
+SUMMARY:Last day of regularly scheduled 6-week Session 1 classes
+UID:db56a46a-4869-42a5-95c9-088e758980ab@db56.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210620
+SUMMARY:Enrollment Census Date (8-week Session 2\, 4-week Session 2)
+UID:b6e03c7b-04a1-482e-8b02-e45f0f8eb1b5@b6e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221223
+SUMMARY:President's Day Observed - offices closed
+UID:577d1edd-01e4-401b-96ae-9d87c222c56b@577d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231010
+DTEND;VALUE=DATE:20231012
+SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
+UID:60332a5d-89a3-4ece-a817-55a60b1fbdc4@6033.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300630
+SUMMARY:4-week Session 3 classes begin
+UID:48df3c0e-446c-4fda-af0e-99296ec96ea4@48df.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240101
+SUMMARY:New Year's Day - offices closed
+UID:5ecdae02-63af-4274-b28e-9c43f75674a2@5ecd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271223
+SUMMARY:President's Day Observed - offices closed
+UID:b23621ee-ebfc-49c2-b084-0aec5ce48f4c@b236.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290430
+SUMMARY:Initial Fee Due Date
+UID:802407f3-f832-4e10-9402-63dcbf58d0ea@8024.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220224
+SUMMARY:Last day of regularly scheduled first-session classes
+UID:4dec7e89-d21e-4dac-a8a8-b53b105ab2f9@4dec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220227
+DTEND;VALUE=DATE:20220301
+SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
+UID:de74cf7e-db06-45b1-9d70-72b7bf2a7b7a@de74.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270719
+SUMMARY:Enrollment Census Date (4-week Session 3)
+UID:d69affd4-1992-4f5b-b07f-2208d49f2091@d69a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271210
+DTEND;VALUE=DATE:20271217
+SUMMARY:Final examinations for semester and second-session classes
+UID:5bdda37c-8881-4789-9bff-8fdb741707d3@5bdd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290729
+DTEND;VALUE=DATE:20290801
+SUMMARY:Final examinations for Summer Term*
+UID:800b09d4-2ce4-4789-b4ca-d650031cc343@800b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300812
+SUMMARY:Initial Fee Due Date
+UID:84a6f4a9-c486-4d73-9836-b34761fbd751@84a6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250101
+SUMMARY:New Year's Day - offices closed
+UID:be4a9833-6426-4888-8f41-2da5d6b85690@be4a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231225
+SUMMARY:Christmas - offices closed
+UID:e32d2a28-e743-410b-bc14-038a88bc87e2@e32d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210228
+DTEND;VALUE=DATE:20210302
+SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
+UID:02e95eb9-54dc-424c-b6ee-1896bdaa742b@02e9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280618
+SUMMARY:6-week Session 2 classes begin
+UID:0dba089c-732f-4267-ac11-41ecf03687bb@0dba.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301009
+SUMMARY:Second-session classes begin
+UID:e87348f9-c6b5-4320-a6dd-9af9e1e0f0f8@e873.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230701
+SUMMARY:Enrollment Census Date (6-week Session 2)
+UID:09c5c840-9901-494e-a59a-8efd3f3bbd14@09c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271014
+DTEND;VALUE=DATE:20271016
+SUMMARY:Autumn Break - no classes\, offices open
+UID:1883ffe9-17e1-4df4-a42c-63113849251e@1883.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220529
+SUMMARY:Memorial Day - no classes\, offices closed
+UID:9a7d1d83-066d-44a4-9d85-76abe08a7c9c@9a7d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291024
+SUMMARY:Enrollment Census Date (second-session)
+UID:b298a16c-8e8a-4760-b27c-fafe8a89223d@b298.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230904
+SUMMARY:Labor Day - no classes\, offices closed
+UID:c0923417-b59a-4559-aa44-5f91b4bb8b2c@c092.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241111
+SUMMARY:Veterans Day observed - no classes\, offices closed
+UID:1619a1e6-a3ba-4d3b-b16b-52672d6296c1@1619.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290507
+SUMMARY:Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1 classes begin
+UID:31849bd0-8c79-4ef5-9a42-97aaadc4d1b7@3184.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280522
+SUMMARY:Enrollment Census Date (Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1)
+UID:a4b214a9-7aaf-4229-9a33-c517408043ee@a4b2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250618
+SUMMARY:Last day of regularly scheduled 6-week Session 1 classes
+UID:62db5975-4f98-411e-80b3-ac88c78b9578@62db.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260226
+SUMMARY:Last day of regularly scheduled first-session classes
+UID:9a84b132-dfb0-417c-bc50-1b6304a69f1f@9a84.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271126
+SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
+UID:6e5dbbc2-d71f-464d-b86b-bf4243d88d84@6e5d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261224
+SUMMARY:President's Day Observed - offices closed
+UID:83224a23-afc2-400a-8bd1-03afd54f5ce8@8322.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300106
+SUMMARY:Semester and first-session classes begin
+UID:bfdb798d-c065-423f-b4c1-7b98f7b8512b@bfdb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230531
+SUMMARY:Last day of regularly scheduled 4-week Session 1 classes
+UID:6544c1d5-e7ff-42dc-ae33-c2335bc91c13@6544.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210110
+SUMMARY:Semester and first-session classes begin
+UID:6c7647b8-22fa-4f60-8033-571032ff38b4@6c76.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221031
+SUMMARY:Enrollment Census Date (second-session)
+UID:b88875a8-1599-4e40-b964-9d8e632a6c44@b888.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301129
+SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
+UID:5ea509f8-57ce-40f8-ae12-708e16f470fd@5ea5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230804
+SUMMARY:Summer Commencement
+UID:ed0103ca-8ba7-400f-8ddd-36ab7eefc280@ed01.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300819
+SUMMARY:Semester and first-session classes begin
+UID:7f097e3c-dc6c-4571-8fde-d4d19603ba5a@7f09.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240520
+SUMMARY:Enrollment Census Date (Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1)
+UID:d8e23eb7-1b25-4875-bc8f-e51b40e01726@d8e2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280619
+SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
+UID:f1f586e3-c901-4ba5-b877-8bd55b0ea8e4@f1f5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290311
+DTEND;VALUE=DATE:20290316
+SUMMARY:Spring Break
+UID:eee2ffed-2f13-49b7-87de-a18f67d4ff6e@eee2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250525
+SUMMARY:Memorial Day - no classes\, offices closed
+UID:4753380f-7e78-41ac-9da1-5498028d8317@4753.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280101
+SUMMARY:New Year's Day - offices closed
+UID:1caaa43b-8f3e-4200-8083-407152a5d6eb@1caa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241224
+SUMMARY:President's Day Observed - offices closed
+UID:395b97ba-ba35-4ca1-ac22-31924f01891c@395b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231122
+SUMMARY:Thanksgiving Break begins - no classes\, offices open
+UID:7689d52f-ade5-4968-87f5-ff062faec99c@7689.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260716
+SUMMARY:Enrollment Census Date (4-week Session 3)
+UID:138280bc-80f3-4914-a11d-f1c7303bbe50@1382.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300224
+DTEND;VALUE=DATE:20300226
+SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
+UID:2b6a80e3-d5ec-4e50-a9cb-cb64c4d612d2@2b6a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250901
+SUMMARY:Labor Day - no classes\, offices closed
+UID:0c78357e-9236-4789-9b90-8da6958683a4@0c78.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291225
+SUMMARY:Christmas - offices closed
+UID:b182c7ca-0e7a-433c-89ab-71d396e9e66a@b182.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221123
+SUMMARY:Thanksgiving Break begins - no classes\, offices open
+UID:b8866f88-4b8c-4c40-bfd8-7b8bba3caf56@b886.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270817
+SUMMARY:Initial Fee Due Date
+UID:c3d6c578-c1d6-44ba-8628-a4f1ddbbee72@c3d6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211223
+SUMMARY:President's Day Observed - offices closed
+UID:7cd35ccd-c002-4fc0-a27b-364103541628@7cd3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260320
+SUMMARY:Spring Break
+UID:8c8acbbc-29a7-4dbe-bafb-83271c284400@8c8a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260426
+SUMMARY:Last day of regularly scheduled semester and second-session classes
+UID:7d37b161-803b-4622-a5c9-da514f25d9a9@7d37.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290505
+SUMMARY:Spring Commencement
+UID:6b5aeeff-43ab-4646-a22f-8e6d011fb8b7@6b5a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300429
+SUMMARY:Initial Fee Due Date
+UID:e83ccd3a-6938-4e0c-86b1-d161ac16608f@e83c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231110
+SUMMARY:Veterans Day observed - no classes\, offices closed
+UID:928be727-302f-4232-a74c-b5431da97c45@928b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291216
+SUMMARY:Autumn Commencement
+UID:d3848b62-145d-41ae-8993-6f92f9738ffc@d384.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270110
+SUMMARY:Semester and first-session classes begin
+UID:6760e216-00d7-4185-b69d-487555929957@6760.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211014
+DTEND;VALUE=DATE:20211016
+SUMMARY:Autumn Break - no classes\, offices open
+UID:6631122e-f0a3-4296-b07e-063a376c2e7c@6631.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290813
+SUMMARY:Initial Fee Due Date
+UID:729f6649-4159-4f6c-b76d-4f3d64ee0252@729f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280108
+SUMMARY:Semester and first-session classes begin
+UID:41717d64-6623-4949-8b13-53a4baf2486e@4171.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250604
+SUMMARY:Last day of regularly scheduled 4-week Session 1 classes
+UID:57f9b27c-aa66-4dcb-bd39-241824481d80@57f9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210508
+SUMMARY:Spring Commencement
+UID:84173977-8c01-48ce-810d-d9f011369fbb@8417.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260908
+SUMMARY:Enrollment Census Date (semester\, first-session)
+UID:07e1b632-386e-4147-a2f1-89748a92efff@07e1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280822
+SUMMARY:Semester and first-session classes begin
+UID:deae3f6e-0c4c-49ac-977f-36356e32c640@deae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211231
+SUMMARY:New Year's Day - offices closed
+UID:b86c0ec4-1612-49ab-85e9-1f6488e2a965@b86c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210907
+SUMMARY:Enrollment Census Date (semester\, first-session)
+UID:3e9f2d99-3c23-4007-aab3-54ba365b10bc@3e9f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240526
+SUMMARY:Memorial Day - no classes\, offices closed
+UID:f886e675-fd51-41ec-ad24-d9cc8d818db8@f886.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260503
+SUMMARY:Initial Fee Due Date
+UID:cb885ae8-e153-44e3-b132-863d84776c06@cb88.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260524
+SUMMARY:Enrollment Census Date (Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1)
+UID:a5335e67-c16f-47bf-8fde-28a3530b8002@a533.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210807
+SUMMARY:Summer Commencement
+UID:cfd4f853-535e-41da-af62-ab9996f5d60e@cfd4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300421
+SUMMARY:Last day of regularly scheduled semester and second-session classes
+UID:8061172e-08de-490d-a442-6afd4abbd028@8061.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220103
+SUMMARY:Initial Fee Due Date
+UID:1be88d72-f40b-4002-afff-6fac87f384d3@1be8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260729
+SUMMARY:Last day of regularly scheduled Summer Term\, 8-week Session 2\, 6-week Session 2\, and 4-week Session 3 classes
+UID:0326804c-8eba-4720-98b0-35f4d56e8e87@0326.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270620
+SUMMARY:6-week Session 2 classes begin
+UID:d452a2f1-09f5-4905-a01e-f5c892843527@d452.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290225
+DTEND;VALUE=DATE:20290227
+SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
+UID:f19206b2-385c-4a35-bc77-8b3bc68425f6@f192.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251013
+SUMMARY:Last day of regularly scheduled first-session classes
+UID:3107bf1d-547e-402a-a79a-12e783880e51@3107.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251103
+SUMMARY:Enrollment Census Date (second-session)
+UID:13064a68-b84b-49fc-b624-3c55451fa49d@1306.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281217
+SUMMARY:Autumn Commencement
+UID:a37cd8f4-27b1-4da3-a166-7ac862c2142f@a37c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250427
+SUMMARY:Last day of regularly scheduled semester and second-session classes
+UID:fc49ebb7-b7e5-404e-8611-af817dcc4676@fc49.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280501
+SUMMARY:Initial Fee Due Date
+UID:00200dd8-1344-428e-a70c-808449e3a636@0020.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281225
+SUMMARY:Christmas - offices closed
+UID:963a7397-3174-4d20-ad1f-656121a4c815@963a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240224
+DTEND;VALUE=DATE:20240226
+SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
+UID:257ae412-0b1c-4263-97d8-3f92f662cdca@257a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291207
+DTEND;VALUE=DATE:20291214
+SUMMARY:Final examinations for semester and second-session classes
+UID:2c2de425-3126-475c-826d-b1659307ea97@2c2d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280528
+SUMMARY:Memorial Day - no classes\, offices closed
+UID:ff4e2562-1d88-4899-adc9-88880253fd72@ff4e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231030
+SUMMARY:Enrollment Census Date (second-session)
+UID:4f70d451-0003-4bf8-ac63-1f33524ca92f@4f70.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250622
+SUMMARY:6-week Session 2 classes begin
+UID:60233e3c-099b-40a7-bf90-67fdaf263f36@6023.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300619
+SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
+UID:ecea308e-31ba-4746-a7f6-96db058bb9bb@ecea.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270424
+SUMMARY:Last day of regularly scheduled semester and second-session classes
+UID:3bb568cc-713c-4ca1-8a5b-8723ba252772@3bb5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220313
+DTEND;VALUE=DATE:20220318
+SUMMARY:Spring Break
+UID:e2d5a7e6-f123-4595-bd43-85c7c5c088ce@e2d5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300630
+SUMMARY:Enrollment Census Date (6-week Session 2)
+UID:3b6bae1e-be2a-4164-96c1-bba42e5ffcee@3b6b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240627
+SUMMARY:Last day of regularly scheduled 8-week Session 1 and 4-week Session 2 classes
+UID:0e7c501d-c7ae-4667-aaf6-8d22ebde5b6d@0e7c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290227
+SUMMARY:Second-session classes begin
+UID:aaee87bc-8569-4eb6-90e4-92dd7aa03c93@aaee.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221226
+SUMMARY:Christmas - offices closed
+UID:c6ab1c1c-98c2-4ff9-b8c1-8011b5e533ce@c6ab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270509
+SUMMARY:Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1 classes begin
+UID:d1f1273e-a732-4358-bd2a-989c1b5b7ea3@d1f1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301206
+DTEND;VALUE=DATE:20301213
+SUMMARY:Final examinations for semester and second-session classes
+UID:5af8cf50-9eff-476a-bd1f-4eae39e11f06@5af8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260101
+SUMMARY:New Year's Day - offices closed
+UID:e9cd9f1a-7601-40ba-918f-eb8b7f5bf99f@e9cd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260705
+SUMMARY:Independence Day - no classes\, offices closed
+UID:c6b3eba5-7f4d-406d-b74c-07a811537e88@c6b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230424
+DTEND;VALUE=DATE:20230501
+SUMMARY:Final examinations for semester and second-session classes
+UID:7cc3e525-0f43-4a33-b880-86c9193f72a5@7cc3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211012
+DTEND;VALUE=DATE:20211014
+SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
+UID:c5180b8c-441c-4682-8b75-efb5d68e179d@c518.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210425
+SUMMARY:Last day of regularly scheduled semester and second-session classes
+UID:31248f1a-f5d2-4eba-9060-b2cd1e00dc5f@3124.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251111
+SUMMARY:Veterans Day observed - no classes\, offices closed
+UID:784667bd-f6cc-4e6d-af36-31d2e9912b27@7846.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281123
+SUMMARY:Thanksgiving Day - no classes\, offices closed
+UID:ea46a71a-7085-461b-a536-51c5864cd3e6@ea46.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290617
+SUMMARY:6-week Session 2 classes begin
+UID:2f08820e-c3ca-4548-9b17-86f4451d31cc@2f08.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290121
+SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
+UID:402b036c-1afc-4315-87ec-507c1c0b69da@402b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240728
+DTEND;VALUE=DATE:20240731
+SUMMARY:Final examinations for Summer Term*
+UID:9fc89e25-efdd-4099-87b8-1d646ca56f38@9fc8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271124
+SUMMARY:Thanksgiving Break begins - no classes\, offices open
+UID:d7328ae7-d7c8-42b0-b767-c9ee3e0f5cad@d732.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260618
+SUMMARY:Enrollment Census Date (8-week Session 2\, 4-week Session 2)
+UID:bdfa369f-6b7c-4193-a859-432b9596742b@bdfa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210524
+SUMMARY:Enrollment Census Date (Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1)
+UID:2d4d65de-fda6-4bd1-b61f-0c7d95e6a75c@2d4d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270728
+SUMMARY:Last day of regularly scheduled Summer Term\, 8-week Session 2\, 6-week Session 2\, and 4-week Session 3 classes
+UID:16be00fc-fc36-48f3-83ec-f6625006de59@16be.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231124
+SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
+UID:a49c4318-9fa7-4ae3-bfb7-c84c5f1bed55@a49c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230617
+SUMMARY:Enrollment Census Date (8-week Session 2\, 4-week Session 2)
+UID:63d36fd5-25f5-4538-a52d-adbec4d4e61d@63d3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220602
+SUMMARY:Last day of regularly scheduled 4-week Session 1 classes
+UID:c4c2fba6-8909-44e1-abab-9efa74a001bc@c4c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270318
+SUMMARY:Spring Break
+UID:8b2f0a92-a5aa-44be-b8db-1234cce4da2b@8b2f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240704
+SUMMARY:Independence Day - no classes\, offices closed
+UID:8eb11d78-4549-408e-aa83-a1c9a1be1955@8eb1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250809
+SUMMARY:Summer Commencement
+UID:b1c4e393-2500-4547-a35c-e34b8ad55d8e@b1c4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230108
+SUMMARY:Semester and first-session classes begin
+UID:8f02a96a-7cc3-4fd7-900e-d56b4c8b9815@8f02.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210314
+DTEND;VALUE=DATE:20210319
+SUMMARY:Spring Break
+UID:5971de5a-4acf-42fe-b07e-3ff7bb111c24@5971.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230507
+SUMMARY:Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1 classes begin
+UID:9b1d72ea-4da3-4bdd-9efd-84463b1198f1@9b1d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211018
+SUMMARY:Second-session classes begin
+UID:9102a944-b263-4181-a2bb-8e4caf50b899@9102.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250504
+SUMMARY:Initial Fee Due Date
+UID:77ea9b56-e19c-42f4-ba07-82196d477bc7@77ea.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220109
+SUMMARY:Semester and first-session classes begin
+UID:9c663326-4b68-4e93-8a07-dd6df37b8d41@9c66.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251224
+SUMMARY:President's Day Observed - offices closed
+UID:23b39a89-12b5-4178-b3e6-ea21c6d223ef@23b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251210
+SUMMARY:Last day of regularly scheduled semester and second-session classes
+UID:10ec7c9e-a870-4b27-9879-c8da1907dd44@10ec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240616
+SUMMARY:6-week Session 2 classes begin
+UID:11b8685e-b875-46f5-8737-16da86bdc320@11b8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221010
+SUMMARY:Last day of regularly scheduled first-session classes
+UID:c7b60826-e025-4afc-8b82-bbb42e3cfc2e@c7b6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230905
+SUMMARY:Enrollment Census Date (semester\, first-session)
+UID:1713e221-b1e5-48fa-b061-13bffd712ac0@1713.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280122
+SUMMARY:Enrollment Census Date (semester\, first-session)
+UID:d424d521-bb80-441a-a7c1-91369e1ef1b8@d424.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210316
+SUMMARY:Enrollment Census Date (second-session)
+UID:0225f67e-a347-4765-882a-c1f29ced8a20@0225.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281226
+SUMMARY:President's Day Observed - offices closed
+UID:a9130ba8-f51f-4811-9ccc-84799a5bd150@a913.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260531
+SUMMARY:Memorial Day - no classes\, offices closed
+UID:0b5ae718-fb4f-408d-a7ed-dd9c2e1939c6@0b5a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231016
+SUMMARY:Second-session classes begin
+UID:404dc8f1-b832-4444-a491-17ce959b6760@404d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290422
+SUMMARY:Last day of regularly scheduled semester and second-session classes
+UID:f9635f0c-50c4-4a13-b750-0e3c5e3dd0d3@f963.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260317
+SUMMARY:Enrollment Census Date (second-session)
+UID:7ffd2c70-809f-401a-8537-c2045845006d@7ffd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270704
+SUMMARY:Independence Day - no classes\, offices closed
+UID:a1c8a8e4-d62f-41e3-9a80-14b15399d395@a1c8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220620
+SUMMARY:6-week Session 2 classes begin
+UID:745fae14-452d-424a-9cda-2f34faceddd3@745f.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231012
 DTEND;VALUE=DATE:20231014
 SUMMARY:Autumn Break - no classes\, offices open
-UID:71a1f6e3-fd92-4e4b-b381-2fcf70cebb1e@71a1.org
+UID:85e4162e-647f-446d-acbc-b09b40354741@85e4.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230102
+DTSTART;VALUE=DATE:20280904
+SUMMARY:Labor Day - no classes\, offices closed
+UID:5e5b2b46-2bb8-486e-b679-59378f5c5dac@5e5b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270502
 SUMMARY:Initial Fee Due Date
-UID:96454d3a-2192-449c-a91a-69d960ac9383@9645.org
+UID:3a82fd5e-5a07-4da2-af96-e7bd1959de9b@3a82.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280702
-SUMMARY:4-week Session 3 classes begin
-UID:1947b6bb-df55-423d-9a25-089731da539c@1947.org
+DTSTART;VALUE=DATE:20251126
+SUMMARY:Thanksgiving Break begins - no classes\, offices open
+UID:9aafa637-defb-4cbd-9d8d-f87373d0394a@9aaf.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280805
-SUMMARY:Summer Commencement
-UID:e31da9ed-14ac-4097-a8bd-54d7753114d6@e31d.org
+DTSTART;VALUE=DATE:20240630
+SUMMARY:Enrollment Census Date (6-week Session 2)
+UID:0b2c4e9c-b16e-4e04-9970-650d1d8f84d7@0b2c.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20211208
-SUMMARY:Last day of regularly scheduled semester and second-session classes
-UID:466d673f-5f88-487c-8be9-beceb6d41121@466d.org
+DTSTART;VALUE=DATE:20261012
+SUMMARY:Last day of regularly scheduled first-session classes
+UID:0ed2569e-068f-4dee-b0e7-34a4ed44d64f@0ed2.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271018
-SUMMARY:Second-session classes begin
-UID:bd2c8e4e-1907-42c3-afaa-e247b875b7f0@bd2c.org
+DTSTART;VALUE=DATE:20230521
+SUMMARY:Enrollment Census Date (Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1)
+UID:c96d7063-46e8-4fd4-8323-c61d0ce00553@c96d.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20291112
-SUMMARY:Veterans Day observed - no classes\, offices closed
-UID:51011d7d-6012-4826-a388-63f1cf67292a@5101.org
+DTSTART;VALUE=DATE:20250803
+DTEND;VALUE=DATE:20250806
+SUMMARY:Final examinations for Summer Term*
+UID:48835872-2a1a-45af-a9c2-78f02ea69d1f@4883.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210817
+SUMMARY:Initial Fee Due Date
+UID:124fa3a5-e910-4d1d-9afa-4bb01ab67fc4@124f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241010
+DTEND;VALUE=DATE:20241012
+SUMMARY:Autumn Break - no classes\, offices open
+UID:662554e3-f4bf-4e30-9a0a-08c3c08c1cc9@6625.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300714
 SUMMARY:Enrollment Census Date (4-week Session 3)
-UID:527fc7d3-8e1e-4d3b-b8bc-0adb12159fb5@527f.org
+UID:95809764-7e73-4d81-8b39-f46a108bf4db@9580.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221111
+SUMMARY:Veterans Day observed - no classes\, offices closed
+UID:2874f10e-e195-47df-9543-fdf48907a43a@2874.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240221
+SUMMARY:Last day of regularly scheduled first-session classes
+UID:68e45de0-8133-4af5-a9aa-d34232e54714@68e4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250318
+SUMMARY:Enrollment Census Date (second-session)
+UID:0bfb3f39-a2b7-4ad1-adf4-8b11a40a59fa@0bfb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261102
+SUMMARY:Enrollment Census Date (second-session)
+UID:d3d9fdab-947f-46a7-8f01-cda6f57dec4f@d3d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280629
+SUMMARY:Last day of regularly scheduled 8-week Session 1 and 4-week Session 2 classes
+UID:eb6efe03-306a-4e7e-bf7f-952348c6bfc0@eb6e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230822
+SUMMARY:Semester and first-session classes begin
+UID:150cbb3d-79b7-4360-ab77-3c94b78c8af3@150c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250302
+DTEND;VALUE=DATE:20250304
+SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
+UID:75c16733-3d60-40e0-ade9-575817d9a55d@75c1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300616
+SUMMARY:Enrollment Census Date (8-week Session 2\, 4-week Session 2)
+UID:ef45251c-7018-4883-8bdb-a3c75e607de7@ef45.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300101
+SUMMARY:New Year's Day - offices closed
+UID:8fc80b76-eebd-4ac7-9cf6-4843558017e4@8fc8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241127
+SUMMARY:Thanksgiving Break begins - no classes\, offices open
+UID:8e6ca4b6-6ef8-40d6-ba76-c3b2e9ebb6fa@8e6c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210824
+SUMMARY:Semester and first-session classes begin
+UID:bc6fe7e7-cc7c-466b-8192-7c5a261bbcd4@bc6f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220301
+SUMMARY:Second-session classes begin
+UID:6db82e4f-5e44-4bca-aa11-1670bfec96fd@6db8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271011
+SUMMARY:Last day of regularly scheduled first-session classes
+UID:7b0fcc8a-4d5e-4e43-b125-80f7f5b48682@7b0f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290424
+DTEND;VALUE=DATE:20290501
+SUMMARY:Final examinations for semester and second-session classes
+UID:f8cb8d5c-6fce-4072-9b36-f03f76541435@f8cb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241204
+SUMMARY:Last day of regularly scheduled semester and second-session classes
+UID:f2956983-6979-427c-a0a2-8d32e2a25f65@f295.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210510
+SUMMARY:Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1 classes begin
+UID:1cdf0bcb-54e4-4a32-9220-df74d93b5601@1cdf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300226
+SUMMARY:Second-session classes begin
+UID:9ea46825-ca7d-44c4-b41a-c2d9da685a25@9ea4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240613
+SUMMARY:Last day of regularly scheduled 6-week Session 1 classes
+UID:56937a79-2783-41ba-8c4d-53a1a3c3a52b@5693.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290107
+SUMMARY:Semester and first-session classes begin
+UID:c06b33ba-75a0-44ae-840f-cb73f172abf6@c06b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271208
+SUMMARY:Last day of regularly scheduled semester and second-session classes
+UID:3c484ea3-965e-4222-b5e7-00d3a1ec186c@3c48.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270907
+SUMMARY:Enrollment Census Date (semester\, first-session)
+UID:68021cd1-e98a-4822-bc16-5e315e840b62@6802.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301004
+SUMMARY:Last day of regularly scheduled first-session classes
+UID:40f9fd9d-7f74-4a6b-a4d4-9cd1b077dd22@40f9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230505
+SUMMARY:Spring Commencement
+UID:e3edce9c-6e80-40c6-9cf2-2508fd6d53b2@e3ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281110
+SUMMARY:Veterans Day observed - no classes\, offices closed
+UID:eb17f5f9-3965-45b9-a8d0-6dedb2edb803@eb17.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230729
+DTEND;VALUE=DATE:20230801
+SUMMARY:Final examinations for Summer Term*
+UID:a452fa81-fbb8-40bc-b59e-165c76f9b482@a452.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300506
+SUMMARY:Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1 classes begin
+UID:492d0509-b3be-48b6-b747-65a8ca5ef537@492d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240106
+SUMMARY:Semester and first-session classes begin
+UID:2d73a49a-99f6-44a5-8285-e2aafd82a726@2d73.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280601
+SUMMARY:Last day of regularly scheduled 4-week Session 1 classes
+UID:b8659331-6b57-419d-ba73-43a65285ba34@b865.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220731
+DTEND;VALUE=DATE:20220803
+SUMMARY:Final examinations for Summer Term*
+UID:6c29ad77-b5fe-4140-8433-b1bd3ff1bc25@6c29.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211124
+SUMMARY:Thanksgiving Break begins - no classes\, offices open
+UID:53651daf-f609-4d4f-b457-78801d2bcd3d@5365.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240714
+SUMMARY:Enrollment Census Date (4-week Session 3)
+UID:fd6bb97c-ecda-4daf-b438-9e986c291fdc@fd6b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241008
+DTEND;VALUE=DATE:20241010
+SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
+UID:532785a8-9e04-4671-ba1c-23a6672385a7@5327.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220502
+SUMMARY:Initial Fee Due Date
+UID:b952231e-3852-47d6-b65d-c4de4bd6a79e@b952.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231217
+SUMMARY:Autumn Commencement
+UID:75baeb43-2d1b-45b2-bf78-a6bcb9ae282b@75ba.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271018
+SUMMARY:Second-session classes begin
+UID:9d143d8b-b059-41c2-b10e-e5708d5ec289@9d14.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300530
+SUMMARY:Last day of regularly scheduled 4-week Session 1 classes
+UID:2978d524-280a-4cfb-ae3d-814e5308c782@2978.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271012
+DTEND;VALUE=DATE:20271014
+SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
+UID:f6cacb18-ab62-4bd8-a77b-352b0e435cfe@f6ca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211125
+SUMMARY:Thanksgiving Day - no classes\, offices closed
+UID:92728a3c-64a6-4604-8a92-828fd2f17cfe@9272.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281124
+SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
+UID:e7602df0-c410-4862-8e1c-c626bd460b0c@e760.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220616
+SUMMARY:Last day of regularly scheduled 6-week Session 1 classes
+UID:d30099c0-569e-4d68-892e-8f135b99964a@d300.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221017
+SUMMARY:Second-session classes begin
+UID:3c2c9d04-3f7a-4452-8a8b-7ed968cb014e@3c2c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270503
+SUMMARY:Final examinations for semester and second-session classes
+UID:c9d7b593-e9b0-4564-9678-4d51df622db0@c9d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280727
+SUMMARY:Last day of regularly scheduled Summer Term\, 8-week Session 2\, 6-week Session 2\, and 4-week Session 3 classes
+UID:f5b78018-2ef0-4a68-bd15-407b20e12247@f5b7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280604
+SUMMARY:8-week Session 2 and 4-week Session 2 classes begin
+UID:638efee5-fe00-44a3-bbb3-5d4e96d39c9d@638e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250112
+SUMMARY:Semester and first-session classes begin
+UID:19326cb2-7d9e-42c2-af7b-fe6b542081c6@1932.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240226
+SUMMARY:Second-session classes begin
+UID:863b393c-7dac-45be-ba34-28d4b111338a@863b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241028
+SUMMARY:Enrollment Census Date (second-session)
+UID:153aaa4c-e931-404c-be7c-ae90de5bf95e@153a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220619
+SUMMARY:Enrollment Census Date (8-week Session 2\, 4-week Session 2)
+UID:62c51b5c-dae3-4b2f-a650-9bd7c8fcdb30@62c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240530
+SUMMARY:Last day of regularly scheduled 4-week Session 1 classes
+UID:e19650b9-7344-498b-beb4-6126dc57e1d3@e196.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280730
+DTEND;VALUE=DATE:20280802
+SUMMARY:Final examinations for Summer Term*
+UID:e77830e6-c6c7-4fab-988e-48b38fbf2d00@e778.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241225
+SUMMARY:Christmas - offices closed
+UID:b4a0f1bb-4645-4873-8c54-f33e715809ba@b4a0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270523
+SUMMARY:Enrollment Census Date (Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1)
+UID:05623b26-237d-46e4-9388-276d74f667fb@0562.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290614
+SUMMARY:Last day of regularly scheduled 6-week Session 1 classes
+UID:4301841b-d07c-44b9-ba18-2231b64047fc@4301.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280506
+SUMMARY:Spring Commencement
+UID:e8c03489-db0b-4cc7-877a-48121cef7976@e8c0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251016
+DTEND;VALUE=DATE:20251018
+SUMMARY:Autumn Break - no classes\, offices open
+UID:8e6740ee-efc4-4d02-b738-9ecc84fa7970@8e67.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290804
+SUMMARY:Summer Commencement
+UID:1f560db9-219f-4949-a18b-f6e8d3e6f1ca@1f56.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280425
+DTEND;VALUE=DATE:20280502
+SUMMARY:Final examinations for semester and second-session classes
+UID:b5e1c57a-bba6-4351-badf-e96a12628cbf@b5e1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301128
+SUMMARY:Thanksgiving Day - no classes\, offices closed
+UID:2689cfb5-bbde-405a-997b-1f5bba3f9831@2689.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
+UID:6404f638-1e11-4daa-80b8-03c36329106f@6404.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210225
+SUMMARY:Last day of regularly scheduled first-session classes
+UID:cad097c8-27d4-48cc-b008-dac1a106099d@cad0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240506
+SUMMARY:Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1 classes begin
+UID:2380403b-f092-49c8-8bd9-092b086b9a6a@2380.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240813
+SUMMARY:Initial Fee Due Date
+UID:992a5c20-9c24-47e7-b8e5-cdb23051565d@992a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301203
+SUMMARY:Last day of regularly scheduled semester and second-session classes
+UID:cb60215d-2787-4eaa-95f8-fc0fe8ce298e@cb60.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260505
+SUMMARY:Final examinations for semester and second-session classes
+UID:e41d43d4-4af5-435e-a59c-3597cf163699@e41d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290603
+SUMMARY:8-week Session 2 and 4-week Session 2 classes begin
+UID:7b5451a0-741f-4ff5-85b0-810ccc946dfb@7b54.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291112
+SUMMARY:Veterans Day observed - no classes\, offices closed
+UID:ace8d0ed-e3e1-42a4-ad02-56cf88a23714@ace8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281010
+DTEND;VALUE=DATE:20281012
+SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
+UID:7f971184-366f-4459-adf6-a7fd9726e591@7f97.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210103
+SUMMARY:Initial Fee Due Date
+UID:7ac48300-4d33-4a4d-afaf-702c431a9b0d@7ac4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220102
+SUMMARY:New Year's Day - offices closed
+UID:3524bf3b-e2ae-4555-ae84-10c1f2a9128f@3524.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291010
+SUMMARY:Second-session classes begin
+UID:0170e4be-e0dd-4f50-bb75-d568aecd582a@0170.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261220
+SUMMARY:Autumn Commencement
+UID:3cdb06e6-801c-4188-9136-8f3afd563860@3cdb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271101
+SUMMARY:Enrollment Census Date (second-session)
+UID:b9f8d336-e766-4c9b-9b59-d9bac6239d7e@b9f8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271125
+SUMMARY:Thanksgiving Day - no classes\, offices closed
+UID:46391822-985a-44e5-8020-3ac16e2c9f51@4639.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261225
+SUMMARY:Christmas - offices closed
+UID:c868bd07-ab33-4692-9cae-3aea4172512b@c868.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250909
+SUMMARY:Enrollment Census Date (semester\, first-session)
+UID:51e039a7-7c15-483a-b9b7-e4faae5f54af@51e0.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220806
 SUMMARY:Summer Commencement
-UID:a5e718c5-fd96-493b-8518-fb81de6113ab@a5e7.org
+UID:6b5e284f-feae-42ef-9ccd-a269f9dc8683@6b5e.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240630
+DTSTART;VALUE=DATE:20291005
+SUMMARY:Last day of regularly scheduled first-session classes
+UID:15c1177f-09b1-434c-a2aa-119cb8b334a2@15c1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220123
+SUMMARY:Enrollment Census Date (semester\, first-session)
+UID:58812bea-23c5-486c-88b3-2bf9be5d1792@5881.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231208
+DTEND;VALUE=DATE:20231215
+SUMMARY:Final examinations for semester and second-session classes
+UID:ce6e57c5-8113-4486-9ece-4eb28938ebeb@ce6e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240725
+SUMMARY:Last day of regularly scheduled Summer Term\, 8-week Session 2\, 6-week Session 2\, and 4-week Session 3 classes
+UID:dded1b49-e707-4e52-9609-94f6f0e2000c@dded.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211101
+SUMMARY:Enrollment Census Date (second-session)
+UID:38362657-5856-48ca-964f-0e3e183505c6@3836.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251014
+DTEND;VALUE=DATE:20251016
+SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
+UID:1087506d-693a-4ac3-aad4-a23799b34a51@1087.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221209
+DTEND;VALUE=DATE:20221216
+SUMMARY:Final examinations for semester and second-session classes
+UID:d4ed3ad1-8098-4c41-9b42-36ece42ac9cf@d4ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291121
+SUMMARY:Thanksgiving Break begins - no classes\, offices open
+UID:36cbcc75-a9b8-4b38-b74a-fc77e8cda2dd@36cb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220704
+SUMMARY:Independence Day - no classes\, offices closed
+UID:d8e2056a-1fdf-4595-ae69-6f1e39c508c9@d8e2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300526
+SUMMARY:Memorial Day - no classes\, offices closed
+UID:1e119475-e8af-42a4-b5fd-98b5898ca902@1e11.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251127
+SUMMARY:Thanksgiving Day - no classes\, offices closed
+UID:80c372ec-a8f4-49c3-b826-a4f7962a882d@80c3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230102
+SUMMARY:Initial Fee Due Date
+UID:c554483c-1cf4-498c-a268-3e8713f294a5@c554.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260617
+SUMMARY:Last day of regularly scheduled 6-week Session 1 classes
+UID:22295f09-bc3d-47e4-8b47-f24a047c7596@2229.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250703
+SUMMARY:Independence Day - no classes\, offices closed
+UID:61f279aa-827d-432a-b455-00cc8c316833@61f2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290619
+SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
+UID:dc8bbc3f-b761-46d8-9ed3-cbe519549df4@dc8b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300902
+SUMMARY:Labor Day - no classes\, offices closed
+UID:1d40761e-1c28-4686-98c0-932686080d12@1d40.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210617
+SUMMARY:Last day of regularly scheduled 6-week Session 1 classes
+UID:77ce0857-b31f-4adf-8a7b-3f4aff325b1d@77ce.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301007
+DTEND;VALUE=DATE:20301009
+SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
+UID:88afbb6a-85f2-49d1-a13f-ccf1c04850d0@88af.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260702
 SUMMARY:4-week Session 3 classes begin
-UID:c81c1dda-5938-44a7-99ad-ab92f5b288af@c81c.org
+UID:937b87a9-0fbd-41b0-b8b8-21728ff6d2a4@937b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230815
+SUMMARY:Initial Fee Due Date
+UID:e0f15333-845a-43cd-8c43-5df32e16532f@e0f1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260303
+SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
+UID:673479e7-fc14-4e68-854d-1f825f819710@6734.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301023
+SUMMARY:Enrollment Census Date (second-session)
+UID:51709eed-af7c-4dde-98f8-d0e06971af8a@5170.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300728
+DTEND;VALUE=DATE:20300731
+SUMMARY:Final examinations for Summer Term*
+UID:8bc76ff6-3c3f-4435-aeeb-b765767a0948@8bc7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211111
+SUMMARY:Veterans Day observed - no classes\, offices closed
+UID:a57172af-9313-48f7-a477-100b29c94679@a571.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221124
+SUMMARY:Thanksgiving Day - no classes\, offices closed
+UID:ae588e26-255d-4c87-a419-b733d1cb5c85@ae58.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240820
+SUMMARY:Semester and first-session classes begin
+UID:f36849d6-f59b-41eb-9db8-9e6de16d0051@f368.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270225
+SUMMARY:Last day of regularly scheduled first-session classes
+UID:89526ce0-c116-499e-8542-012fc36bd79b@8952.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290313
+SUMMARY:Enrollment Census Date (second-session)
+UID:33f705c6-203b-427b-9dea-6724cdfc2e1e@33f7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250105
+SUMMARY:Initial Fee Due Date
+UID:a762e5c7-774e-4c1d-a24c-dab4c61be7dc@a762.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211011
+SUMMARY:Last day of regularly scheduled first-session classes
+UID:728b9dd5-7687-4b03-9ca7-bb6c2e5cace1@728b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260825
+SUMMARY:Semester and first-session classes begin
+UID:552d87ec-d4c8-4b7b-8829-5f83fc325571@552d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270301
+SUMMARY:Second-session classes begin
+UID:4b695b43-2df6-46f6-bf58-235d690abe47@4b69.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220816
+SUMMARY:Initial Fee Due Date
+UID:0fec02fd-c345-4740-b573-365fe683194c@0fec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290715
+SUMMARY:Enrollment Census Date (4-week Session 3)
+UID:c3c2f092-d9b8-4e9f-b6c7-1aad63f3a9e2@c3c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230228
+SUMMARY:Second-session classes begin
+UID:2b95d371-7c02-4097-9c01-49c8ea39f207@2b95.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251212
+DTEND;VALUE=DATE:20251219
+SUMMARY:Final examinations for semester and second-session classes
+UID:a6697855-bcce-4f3a-ad87-990f0c7ad861@a669.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301010
+DTEND;VALUE=DATE:20301012
+SUMMARY:Autumn Break - no classes\, offices open
+UID:b2b1520f-68fa-4443-a7f4-8f8ee14e8271@b2b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221011
+DTEND;VALUE=DATE:20221013
+SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
+UID:ccbff28a-e2ac-4afb-b1a6-7b540132ed95@ccbf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280226
+DTEND;VALUE=DATE:20280228
+SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
+UID:c5e78a9f-aaec-48b5-94a6-a54132260177@c5e7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241206
+DTEND;VALUE=DATE:20241213
+SUMMARY:Final examinations for semester and second-session classes
+UID:0ee95fc9-c50d-4e56-a2d0-29cc39495268@0ee9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220605
+SUMMARY:8-week Session 2 and 4-week Session 2 classes begin
+UID:c93296b6-5555-45f5-bb24-87e69d0e7b6e@c932.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261015
+SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
+UID:d50857c3-8f15-4e2d-a6b7-f189a25df255@d508.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270616
+SUMMARY:Last day of regularly scheduled 6-week Session 1 classes
+UID:2c741042-72ac-45db-95c0-0a16be4816e4@2c74.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240619
+SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
+UID:3f886aa8-006e-4269-9dd5-d7f5da90e2da@3f88.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300423
+DTEND;VALUE=DATE:20300430
+SUMMARY:Final examinations for semester and second-session classes
+UID:1d8edaeb-f428-4ebe-ae7e-6eb50af8cda4@1d8e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291231
+SUMMARY:Initial Fee Due Date
+UID:e150ae98-c08e-48ba-b006-f693116e9dd5@e150.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230311
+DTEND;VALUE=DATE:20230316
+SUMMARY:Spring Break
+UID:41efdd9c-122a-42bf-9dc0-4d9a8be137d9@41ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221125
+SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
+UID:8524c684-1632-4792-bfe6-48b4f348e176@8524.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210302
+SUMMARY:Second-session classes begin
+UID:0673373a-6d81-49e5-8a80-e28ae4f86f56@0673.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301111
+SUMMARY:Veterans Day observed - no classes\, offices closed
+UID:dc61d00f-44fd-4c36-a090-26444e8b3c6f@dc61.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230701
+SUMMARY:4-week Session 3 classes begin
+UID:f2721fb8-a6d4-4072-a6b5-dea0dec72e7b@f272.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280702
+SUMMARY:Enrollment Census Date (6-week Session 2)
+UID:04f641df-1769-44e2-bd7d-ca7beb56b5ce@04f6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251225
+SUMMARY:Christmas - offices closed
+UID:7795c951-0fb2-4d02-845f-e6d843b516ca@7795.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250429
+DTEND;VALUE=DATE:20250506
+SUMMARY:Final examinations for semester and second-session classes
+UID:ff6e88cd-06a3-40ae-ad2c-56d79257c806@ff6e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281009
+SUMMARY:Last day of regularly scheduled first-session classes
+UID:63d35111-d36e-4e80-a356-34dad9006a98@63d3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271231
+SUMMARY:New Year's Day - offices closed
+UID:ca049a93-9b33-48af-b0c6-36f9baeaabe3@ca04.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220630
+SUMMARY:Last day of regularly scheduled 8-week Session 1 and 4-week Session 2 classes
+UID:76361df6-c082-41b2-b7e2-4a010b08ed44@7636.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290903
+SUMMARY:Labor Day - no classes\, offices closed
+UID:84ac6609-e8b2-4077-9041-368a2ebf547d@84ac.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280314
+SUMMARY:Enrollment Census Date (second-session)
+UID:530692f2-fee3-4ea8-a892-93a88260e225@5306.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230617
-SUMMARY:Enrollment Census Date (8-week Session 2\, 4-week Session 2)
-UID:3cc6f560-f1b5-46fe-b2b5-e7bb0ccb3df6@3cc6.org
+SUMMARY:6-week Session 2 classes begin
+UID:b7a340f2-ccaf-405c-beb0-7f0271598409@b7a3.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260716
-SUMMARY:Enrollment Census Date (4-week Session 3)
-UID:ec80242d-4fc1-40b6-8e55-2fd2afadc9d7@ec80.org
+DTSTART;VALUE=DATE:20240421
+SUMMARY:Last day of regularly scheduled semester and second-session classes
+UID:48eed784-0918-4407-bf63-5984860d45a8@48ee.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250511
+SUMMARY:Summer Term\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1 classes begin
+UID:b079bd82-27f3-45b0-a40d-a73c0a2c94cf@b079.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271219
+SUMMARY:Autumn Commencement
+UID:d169093a-83e3-405a-9721-cf1b0ad5e8b5@d169.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240429
+SUMMARY:Initial Fee Due Date
+UID:e3ccef9c-1b7b-482f-a477-481b1d2e570d@e3cc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230226
+DTEND;VALUE=DATE:20230228
+SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
+UID:0eaab31c-7e0c-4a15-a1c8-3356ad46bb8d@0eaa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261111
+SUMMARY:Veterans Day observed - no classes\, offices closed
+UID:5fc0377d-d293-42a4-bac4-3fc3164f2764@5fc0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230628
+SUMMARY:Last day of regularly scheduled 8-week Session 1 and 4-week Session 2 classes
+UID:611afd5a-fdc9-43c8-bae0-36e5a752f7b0@611a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291123
+SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
+UID:619a556f-5b2f-496d-8c36-c7fe9de57010@619a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210620
+SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
+UID:75627658-2698-41c6-9afe-6b34821930b9@7562.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230603
+SUMMARY:8-week Session 2 and 4-week Session 2 classes begin
+UID:61ed4baf-55a4-4bb5-939c-7f68e6872d74@61ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210606
+SUMMARY:8-week Session 2 and 4-week Session 2 classes begin
+UID:fea2c012-8b92-4eaf-94ca-1e93df517fbb@fea2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290726
+SUMMARY:Last day of regularly scheduled Summer Term\, 8-week Session 2\, 6-week Session 2\, and 4-week Session 3 classes
+UID:3bb42402-1225-439d-a2fe-9403290ac2fa@3bb4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301215
+SUMMARY:Autumn Commencement
+UID:47e9ecef-4938-40a7-aaed-65f2c4d47756@47e9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230430
+SUMMARY:Initial Fee Due Date
+UID:6df004f2-7490-4abd-b99b-9ff5826ddf0f@6df0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270704
+SUMMARY:Enrollment Census Date (6-week Session 2)
+UID:5c4425a7-66b8-40a8-a09e-cf501aa83e46@5c44.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250316
+DTEND;VALUE=DATE:20250321
+SUMMARY:Spring Break
+UID:8e0692c3-a2fa-4a82-9dbd-b73ea6f11d14@8e06.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260118
+SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
+UID:e06b6931-914d-4829-8b38-386d9f0d9d6e@e06b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260303
+SUMMARY:Second-session classes begin
+UID:d1badc06-0139-4ab9-abdb-fdfe951d18d1@d1ba.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230422
+SUMMARY:Last day of regularly scheduled semester and second-session classes
+UID:d648f727-8d12-4d20-91f5-1e6abd7f11ff@d648.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230527
+SUMMARY:Memorial Day - no classes\, offices closed
+UID:0335315f-d727-413b-ad4f-fdd454de78b2@0335.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300312
+SUMMARY:Enrollment Census Date (second-session)
+UID:32d62aea-99c8-4e72-a2cf-9ba500e737df@32d6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220507
+SUMMARY:Spring Commencement
+UID:0a25189a-078a-4472-b160-79c7c3a1ad39@0a25.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301127
+SUMMARY:Thanksgiving Break begins - no classes\, offices open
+UID:9e16e921-6d01-417d-b923-90484f1db916@9e16.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270605
+SUMMARY:8-week Session 2 and 4-week Session 2 classes begin
+UID:f4f830fa-5539-43a2-ac7a-6f3d50178fa1@f4f8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270806
+SUMMARY:Summer Commencement
+UID:fc1f2e53-f9e2-4f2d-b40f-1f71a618e142@fc1f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230619
+SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
+UID:c6fd8cad-cf4d-4113-b88b-deea0acc7fe0@c6fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281122
+SUMMARY:Thanksgiving Break begins - no classes\, offices open
+UID:7c50ffa7-3694-4d31-82af-0506ff838e1a@7c50.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260818
+SUMMARY:Initial Fee Due Date
+UID:11ac862f-1de9-45cd-89f9-121bef693e80@11ac.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270103
+SUMMARY:Initial Fee Due Date
+UID:581fb789-20aa-4dfe-9522-ae36eeb3ec1a@581f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300504
+SUMMARY:Spring Commencement
+UID:082aa78d-86b5-4846-a038-7d05360d3f02@082a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230704
+SUMMARY:Independence Day - no classes\, offices closed
+UID:3e0fb14b-db78-48e6-985c-ba6c8a4ff017@3e0f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291224
+SUMMARY:President's Day Observed - offices closed
+UID:2f5010d8-0435-42e4-903e-f208d4acb6e0@2f50.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240504
+SUMMARY:Spring Commencement
+UID:c40b0e63-c6e7-4e20-9cea-b13c53082f3c@c40b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280805
+SUMMARY:Summer Commencement
+UID:71085928-8c5b-42d1-b14b-7a5e4d58c8c5@7108.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210503
+SUMMARY:Initial Fee Due Date
+UID:6b462146-3ad1-4b35-bdb3-ee658e1c8299@6b46.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220905
+SUMMARY:Labor Day - no classes\, offices closed
+UID:43590e40-aa15-4c77-ada7-ae642261efe2@4359.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221218
+SUMMARY:Autumn Commencement
+UID:5fd4f12a-d72b-4506-a90b-6e0ea3d245bf@5fd4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280423
+SUMMARY:Last day of regularly scheduled semester and second-session classes
+UID:d522fded-06fc-4852-a761-6d5dadcd07e8@d522.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291008
+DTEND;VALUE=DATE:20291010
+SUMMARY:Final examinations for first-session classes (given during last class session unless other arrangements are made)
+UID:3e9a874d-b1bf-43fc-aa20-9ad62adf394d@3e9a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240602
+SUMMARY:8-week Session 2 and 4-week Session 2 classes begin
+UID:0f3eac6d-3b0c-4cf9-83d2-69165a42b842@0f3e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230313
+SUMMARY:Enrollment Census Date (second-session)
+UID:9d990680-6507-4c19-a9ab-9eb8ea8d6d4b@9d99.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210705
+SUMMARY:Enrollment Census Date (6-week Session 2)
+UID:b5eec610-880f-43f8-a7ae-bc6a2ab48483@b5ee.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211219
+SUMMARY:Autumn Commencement
+UID:b5cb6c10-d724-4792-9573-7980e460778a@b5cb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220424
+SUMMARY:Last day of regularly scheduled semester and second-session classes
+UID:1e0fa437-2ddd-4ddf-9557-4c75369a7c68@1e0f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250619
+SUMMARY:Enrollment Census Date (8-week Session 2\, 4-week Session 2)
+UID:e9a43787-cbd2-4876-9c8e-b155d590c761@e9a4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210704
+SUMMARY:Independence Day - no classes\, offices closed
+UID:1f10654d-eae5-4eb0-8034-03221084e121@1f10.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251020
+SUMMARY:Second-session classes begin
+UID:8e08d480-efdf-47e6-bb0d-3b46b08beff5@8e08.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220619
+SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
+UID:e31afe96-d7e0-4fb5-8108-949f58ef35b9@e31a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300902
+SUMMARY:Enrollment Census Date (semester\, first-session)
+UID:2b7942d0-34fb-4371-8286-0bf2f65e5811@2b79.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240120
+SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
+UID:a86b550c-bfff-4fca-99d8-69ca0e191b99@a86b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250119
+SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
+UID:42d0ed7a-c02d-42e5-900c-df5774ffb65f@42d0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290701
+SUMMARY:4-week Session 3 classes begin
+UID:64db8d6a-ea2b-41d2-a5a4-51b44af6065c@64db.org
 END:VEVENT
 END:VCALENDAR
