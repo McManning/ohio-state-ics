@@ -2,553 +2,553 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271231
-SUMMARY:New Year's Day - offices closed
-UID:03ddc21c-7eec-49a3-b8dc-c103c8b0e167@03dd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250703
-SUMMARY:Independence Day - no classes\, offices closed
-UID:cf81fa17-83ad-4ba6-9e2e-bcc2d0c04d5a@cf81.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250619
-SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
-UID:1cc0c5bc-883c-401a-b6ff-3777c5de9822@1cc0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300704
-SUMMARY:Independence Day - no classes\, offices closed
-UID:84cbc170-3acc-43d3-8152-8cf8c2186aa0@84cb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210906
-SUMMARY:Labor Day - no classes\, offices closed
-UID:e45fa0c3-9048-45ab-89c3-9030879699cb@e45f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250525
-SUMMARY:Memorial Day - no classes\, offices closed
-UID:00a2ccbc-586b-43a4-ba74-2eb4df8c6fee@00a2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20301129
-SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
-UID:59205e1e-0366-4ef6-a731-ee18d3ca9086@5920.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20211224
-SUMMARY:Christmas - offices closed
-UID:622c1121-8522-440d-9bd6-3f580f2688fd@622c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261224
-SUMMARY:President's Day Observed - offices closed
-UID:3aa19d0d-dc5c-4445-8c13-8e623d0fce6a@3aa1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20301224
-SUMMARY:President's Day Observed - offices closed
-UID:2717bcd2-0633-489f-b46e-cb1e555ccc74@2717.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260101
-SUMMARY:New Year's Day - offices closed
-UID:f9ad997b-83be-4a0d-90c1-783d621931e4@f9ad.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20221111
-SUMMARY:Veterans Day observed - no classes\, offices closed
-UID:c2e328f7-d1a2-4947-b21d-3c267d93fd97@c2e3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280528
-SUMMARY:Memorial Day - no classes\, offices closed
-UID:d594be02-d24a-436a-ab41-f03cdf870b29@d594.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241225
-SUMMARY:Christmas - offices closed
-UID:6a738b2d-7be6-44c0-adfe-9cc2e6b7344d@6a73.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290527
-SUMMARY:Memorial Day - no classes\, offices closed
-UID:bb0f4b2e-d9a3-4095-9bd8-20621b9861b9@bb0f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260907
-SUMMARY:Labor Day - no classes\, offices closed
-UID:52bf90dd-8ae5-4822-8cee-7ab98e92733c@52bf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280704
-SUMMARY:Independence Day - no classes\, offices closed
-UID:a6cbdabd-626f-483d-bbc1-81469119cb38@a6cb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20281124
-SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
-UID:ca803373-120c-4f45-ba00-b3a1e3f1ca9b@ca80.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280115
-SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
-UID:c48f55b6-81c6-43f1-808a-0d5e66ba3992@c48f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240902
-SUMMARY:Labor Day - no classes\, offices closed
-UID:da38f03f-f448-4222-be7b-7d3df90521c6@da38.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290903
-SUMMARY:Labor Day - no classes\, offices closed
-UID:b276af2a-47ab-4c05-b4d0-69ec7c785d59@b276.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270906
-SUMMARY:Labor Day - no classes\, offices closed
-UID:13a0a9a2-0672-4b50-88f8-cda4a8110b47@13a0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271111
-SUMMARY:Veterans Day observed - no classes\, offices closed
-UID:9dde23a9-c907-46f9-8810-25b81589114c@9dde.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20291122
-SUMMARY:Thanksgiving Day - no classes\, offices closed
-UID:f5958364-0ea6-4158-82f8-87db4b62f3d3@f595.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231226
-SUMMARY:President's Day Observed - offices closed
-UID:69291d73-5331-41a2-a11d-e1a1dc4d2701@6929.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250901
-SUMMARY:Labor Day - no classes\, offices closed
-UID:4e51959d-ada4-47e6-ab56-152f1b432acd@4e51.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250101
-SUMMARY:New Year's Day - offices closed
-UID:f78d73d2-d276-4e77-af94-c365515f704f@f78d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290121
-SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
-UID:a9e60549-4df8-4009-b867-11efe08d851d@a9e6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300526
-SUMMARY:Memorial Day - no classes\, offices closed
-UID:fcb34250-c869-40cc-921b-89851edfe4bc@fcb3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210704
-SUMMARY:Independence Day - no classes\, offices closed
-UID:14c333ab-46b3-4512-8bed-084931af296d@14c3.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20291224
 SUMMARY:President's Day Observed - offices closed
-UID:01e98359-f1b9-47f3-a0af-ff2c42800761@01e9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241224
-SUMMARY:President's Day Observed - offices closed
-UID:ad856cae-02e1-4486-aaf9-c4c171e6c895@ad85.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20221125
-SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
-UID:56aa689a-df09-44f9-9b19-b40f71b68bf3@56aa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20211111
-SUMMARY:Veterans Day observed - no classes\, offices closed
-UID:af454b59-704f-4d64-8ef7-21f0f919b96b@af45.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271224
-SUMMARY:Christmas - offices closed
-UID:85dc2225-2e2a-4680-80f2-99331d507fbb@85dc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270117
-SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
-UID:46872aea-3d43-472b-95e7-2389dc03f43a@4687.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241111
-SUMMARY:Veterans Day observed - no classes\, offices closed
-UID:ce02f02d-c38a-4ae2-9498-4a2d0e39b171@ce02.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240704
-SUMMARY:Independence Day - no classes\, offices closed
-UID:3e16f430-9050-430e-a394-98074b73c61e@3e16.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20281123
-SUMMARY:Thanksgiving Day - no classes\, offices closed
-UID:e31a019f-a58c-449b-9909-5577be66648a@e31a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220619
-SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
-UID:fbfe7e25-8e70-4e8e-ab1a-8befe33ed551@fbfe.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220116
-SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
-UID:2f45f56c-5638-46df-9128-667c4c2f7e65@2f45.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240101
-SUMMARY:New Year's Day - offices closed
-UID:ca495fe4-b664-4687-8c57-5596403aaa49@ca49.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210530
-SUMMARY:Memorial Day - no classes\, offices closed
-UID:b73b2b89-16fd-4978-a015-4030be523865@b73b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300619
-SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
-UID:17f3fc96-70af-44b7-a680-8c16ecd43d86@17f3.org
+UID:14fe726e-beeb-4400-bc7d-0910190eaef8@14fe.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231123
 SUMMARY:Thanksgiving Day - no classes\, offices closed
-UID:95d9bc44-7589-428b-bcf1-128c7c23893e@95d9.org
+UID:bd1a293c-6665-40c8-8f33-fdd6c8947d24@bd1a.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251127
-SUMMARY:Thanksgiving Day - no classes\, offices closed
-UID:7e55e47c-a391-4498-a267-6a9145c7fff6@7e55.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261127
-SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
-UID:9be45ade-9e9d-4b27-a3ed-264ffe71cec9@9be4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230101
-SUMMARY:New Year's Day - offices closed
-UID:2478cade-5b7f-4184-8b63-600c572d223f@2478.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251111
-SUMMARY:Veterans Day observed - no classes\, offices closed
-UID:a1e51908-672e-406f-a1cc-a652fc424409@a1e5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290101
-SUMMARY:New Year's Day - offices closed
-UID:1ff2b982-2256-4284-87b4-0f7b3816ed91@1ff2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20291225
-SUMMARY:Christmas - offices closed
-UID:4b1a864c-9486-47d5-a3f8-d11cd875b325@4b1a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240526
-SUMMARY:Memorial Day - no classes\, offices closed
-UID:3cbd880e-fef4-4866-a178-cbd7fa881ba2@3cbd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20211125
-SUMMARY:Thanksgiving Day - no classes\, offices closed
-UID:fdc32b03-3368-4df0-bf7c-56917b53389b@fdc3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240120
-SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
-UID:0dfd4bc6-a49c-4d68-bbaa-8b9518d9fb3b@0dfd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220905
+DTSTART;VALUE=DATE:20290903
 SUMMARY:Labor Day - no classes\, offices closed
-UID:7debbcae-9bbe-4c26-b7dd-e29d567a53f7@7deb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241128
-SUMMARY:Thanksgiving Day - no classes\, offices closed
-UID:222356c9-8e64-483f-ae2a-c1f07e884cc7@2223.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251224
-SUMMARY:President's Day Observed - offices closed
-UID:c0dedbfb-7de8-468c-8ecf-e7600282e9fd@c0de.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Thanksgiving Day - no classes\, offices closed
-UID:3af32be0-36e3-4364-ae67-e9e140a6d436@3af3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260531
-SUMMARY:Memorial Day - no classes\, offices closed
-UID:f67cd51e-d0ca-4a42-ab5f-67cd21375c1e@f67c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300120
-SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
-UID:abd2ab3e-45b2-41c2-96f2-f1b7f552350e@abd2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230527
-SUMMARY:Memorial Day - no classes\, offices closed
-UID:552c7ae8-91ed-4d3b-a103-e8a67c9d2366@552c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260618
-SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
-UID:9cf93399-ce31-463b-b64f-881454202833@9cf9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210620
-SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
-UID:3c07bcf5-2821-4eab-9cb9-42e53d2b2832@3c07.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20281110
-SUMMARY:Veterans Day observed - no classes\, offices closed
-UID:cd3f19be-69f2-46b5-8d23-1944a5fe7595@cd3f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20301111
-SUMMARY:Veterans Day observed - no classes\, offices closed
-UID:4ec3f9a8-9c9a-4a75-a536-7f4382b10857@4ec3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270529
-SUMMARY:Memorial Day - no classes\, offices closed
-UID:016182f5-ecc7-48ba-afa7-e0c36b8d2fe7@0161.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230115
-SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
-UID:fe7c43af-81c5-4895-8bf6-e6c7c193c72d@fe7c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260118
-SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
-UID:c46321dc-d97c-425c-bf12-b930806368b3@c463.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240619
-SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
-UID:992932d2-6223-47fc-9d91-3135ed83d7f2@9929.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280904
-SUMMARY:Labor Day - no classes\, offices closed
-UID:f745db5c-5dd4-47de-8d63-ee46c5cb9ce3@f745.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271223
-SUMMARY:President's Day Observed - offices closed
-UID:e8b1f251-8576-4a86-9a61-41c454ccf19d@e8b1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210117
-SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
-UID:e30b6831-5e62-4598-a74e-0818b50170e0@e30b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220529
-SUMMARY:Memorial Day - no classes\, offices closed
-UID:40d607fa-f7d8-4fd1-b082-98c1c1c79def@40d6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290619
-SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
-UID:9f7b7f96-5899-450e-a3ed-ae596c012e5c@9f7b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231225
-SUMMARY:Christmas - offices closed
-UID:8a380baf-7cd6-45fa-95fe-d43be0f3f032@8a38.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251128
-SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
-UID:54347306-d366-4ecb-b921-1e83b75a26ec@5434.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220704
-SUMMARY:Independence Day - no classes\, offices closed
-UID:ccfe0b78-6f65-4f3a-8e61-9b3e1dd7a2bb@ccfe.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270704
-SUMMARY:Independence Day - no classes\, offices closed
-UID:836c7c8c-25ec-4ee5-8c4b-412013240d73@836c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250119
-SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
-UID:8e0e8fd7-6865-4a02-942e-65022d906782@8e0e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231110
-SUMMARY:Veterans Day observed - no classes\, offices closed
-UID:36d2d003-65d7-4c5b-a3b6-b8ee36670dc0@36d2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251225
-SUMMARY:Christmas - offices closed
-UID:e62ecccf-76bf-4c9a-820e-8c68b186a4fa@e62e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20291123
-SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
-UID:e41a9167-b588-47b5-b8a5-9b9644f9386a@e41a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280101
-SUMMARY:New Year's Day - offices closed
-UID:2b7cee80-5a4b-43f8-8ee0-12da7787765d@2b7c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20281226
-SUMMARY:President's Day Observed - offices closed
-UID:f623babc-735e-4b63-bab4-2a8ca1a39c13@f623.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20221226
-SUMMARY:Christmas - offices closed
-UID:3d4dce32-7cc6-4c14-9036-c59d2cf93d0a@3d4d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300101
-SUMMARY:New Year's Day - offices closed
-UID:1c4047a3-2525-4dae-9b80-a5ce1f77487b@1c40.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20211223
-SUMMARY:President's Day Observed - offices closed
-UID:2a8a1e21-f9b8-4898-98fe-63126748203a@2a8a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261225
-SUMMARY:Christmas - offices closed
-UID:1d618576-63a5-43b1-8ab3-c403bd5cf1ba@1d61.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241129
-SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
-UID:8e4e375f-91c6-495f-a4d0-80b49513f595@8e4e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20211126
-SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
-UID:5c85188c-b2c1-4ccd-84e9-b9e0c99b2ca7@5c85.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230704
-SUMMARY:Independence Day - no classes\, offices closed
-UID:ce2a350d-e22a-41d3-a770-9b493fcfe871@ce2a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20221124
-SUMMARY:Thanksgiving Day - no classes\, offices closed
-UID:fd2acf67-7d4f-468b-8468-c8c0e384c7f2@fd2a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230904
-SUMMARY:Labor Day - no classes\, offices closed
-UID:4c635645-7e0a-4fc1-8e30-7adb9e5dcdc4@4c63.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20221223
-SUMMARY:President's Day Observed - offices closed
-UID:5c58865b-4273-4886-a008-e940d03b27e3@5c58.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20291112
-SUMMARY:Veterans Day observed - no classes\, offices closed
-UID:febea45d-fbec-419b-98f9-e4bc262f8594@febe.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271125
-SUMMARY:Thanksgiving Day - no classes\, offices closed
-UID:25237a20-f4ae-4c7c-8146-8e17c66a975a@2523.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230619
-SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
-UID:597d030f-f55f-498a-adc8-947c3995fe02@597d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290704
-SUMMARY:Independence Day - no classes\, offices closed
-UID:1e46c978-e4a2-4af0-a3a9-b913fdada449@1e46.org
+UID:9f5a7835-7980-4061-90b8-18cbb21e4783@9f5a.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260705
 SUMMARY:Independence Day - no classes\, offices closed
-UID:9e2b0873-de31-487d-87e8-00d3643cf950@9e2b.org
+UID:6d8aa02f-a6c2-495d-875f-5971c5aeee7c@6d8a.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20301225
-SUMMARY:Christmas - offices closed
-UID:969bd0d7-fca4-464b-a59f-709c13267b03@969b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231124
-SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
-UID:b2729184-aee4-49b3-9df7-71d49a55f7bd@b272.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261111
-SUMMARY:Veterans Day observed - no classes\, offices closed
-UID:c55fcde4-f89c-4b07-8723-4af09e6bed60@c55f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220102
-SUMMARY:New Year's Day - offices closed
-UID:6c0c04d5-8a51-4bd2-a245-664f29b8cc01@6c0c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271126
-SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
-UID:0afba8a9-b0d5-4f59-a244-e00a2dac0cde@0afb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20281225
-SUMMARY:Christmas - offices closed
-UID:3917525c-e13a-4f7d-9a5d-1a0274719675@3917.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20211231
-SUMMARY:New Year's Day - offices closed
-UID:559ec70d-9ce3-4a80-b0a0-978295c80810@559e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280619
-SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
-UID:df36b1d5-d5f6-4147-b0d9-1adbd97a24d8@df36.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300902
+DTSTART;VALUE=DATE:20210906
 SUMMARY:Labor Day - no classes\, offices closed
-UID:a4933d4c-ab0a-4740-be98-d81c9c2bbd54@a493.org
+UID:7add8ddc-a48d-445c-92df-2e18af9ec589@7add.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241224
+SUMMARY:President's Day Observed - offices closed
+UID:1dafb1e2-a8e3-4d3a-b787-995382845fe3@1daf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251127
+SUMMARY:Thanksgiving Day - no classes\, offices closed
+UID:c4ac3f1d-43a6-4f88-bc90-57136278a750@c4ac.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261224
+SUMMARY:President's Day Observed - offices closed
+UID:2d8cc94f-445b-4887-9d49-7bf3606f7063@2d8c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220905
+SUMMARY:Labor Day - no classes\, offices closed
+UID:86232d3a-dfab-442f-b75e-cc865112237a@8623.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270619
 SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
-UID:4768ab8a-9532-4d85-b949-298dc3ffc608@4768.org
+UID:7de4eeb8-9f89-4ff4-b2f2-a11544cf1bf0@7de4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240704
+SUMMARY:Independence Day - no classes\, offices closed
+UID:f30bbc8a-a928-4ef8-9f74-9c4fde2e21a7@f30b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230115
+SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
+UID:cf1ef3b0-ea50-444f-b512-6a129f6f3798@cf1e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301224
+SUMMARY:President's Day Observed - offices closed
+UID:6dddcd9c-affa-49e7-9f53-9f354347ddff@6ddd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261111
+SUMMARY:Veterans Day observed - no classes\, offices closed
+UID:6d4e1968-391b-46f8-a3b7-0e9134e57e31@6d4e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210530
+SUMMARY:Memorial Day - no classes\, offices closed
+UID:24e944d7-b65f-434f-a69f-e3b26bb4f7bf@24e9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210704
+SUMMARY:Independence Day - no classes\, offices closed
+UID:e2618147-e964-4681-a79a-f683725498f7@e261.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241111
+SUMMARY:Veterans Day observed - no classes\, offices closed
+UID:9cd5d194-1901-4399-a6fa-c714f232041d@9cd5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231225
+SUMMARY:Christmas - offices closed
+UID:88d84725-92ca-4d63-aba5-49544670b388@88d8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221124
+SUMMARY:Thanksgiving Day - no classes\, offices closed
+UID:680617be-7cc8-442c-9789-a953fcb8af81@6806.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301129
+SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
+UID:365dbafe-20c6-4e94-a654-d908c9970200@365d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290619
+SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
+UID:9ae79cd7-6299-4d6c-b8ed-697454c8500a@9ae7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240902
+SUMMARY:Labor Day - no classes\, offices closed
+UID:87f2907a-d4ac-4b2c-aad6-24271ce9dd98@87f2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240101
+SUMMARY:New Year's Day - offices closed
+UID:017d2fc5-9aa0-49b5-8e12-93926f3afc8d@017d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211224
+SUMMARY:Christmas - offices closed
+UID:fc0af258-50ad-4d83-a48c-3a91eda65e87@fc0a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Thanksgiving Day - no classes\, offices closed
+UID:db5630fa-6b21-4f8a-813e-45932b616ddf@db56.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241129
+SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
+UID:124ddf58-998e-4d1b-ba9b-09fda1b9968f@124d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300704
+SUMMARY:Independence Day - no classes\, offices closed
+UID:a9b01fae-0c4a-4ae8-9d4a-6f317e1caddd@a9b0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220102
+SUMMARY:New Year's Day - offices closed
+UID:c8b3cf35-c890-4a9e-a698-2742d55b4d6a@c8b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260101
+SUMMARY:New Year's Day - offices closed
+UID:18160a62-bf5f-49bb-995a-129171e52025@1816.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250703
+SUMMARY:Independence Day - no classes\, offices closed
+UID:61140e25-c462-4234-af6b-e16f86862ee3@6114.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280528
+SUMMARY:Memorial Day - no classes\, offices closed
+UID:fe573f60-5c64-4872-b289-e7a6cccc7dfa@fe57.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281110
+SUMMARY:Veterans Day observed - no classes\, offices closed
+UID:e0b94e97-fe55-4b50-b697-a8ae82a4bf63@e0b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271125
+SUMMARY:Thanksgiving Day - no classes\, offices closed
+UID:e45d1314-efd3-47b5-8ae9-d264d4013140@e45d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230101
+SUMMARY:New Year's Day - offices closed
+UID:decbd194-3828-45a2-8301-11437c1eaa26@decb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260531
+SUMMARY:Memorial Day - no classes\, offices closed
+UID:bca15252-045b-46f7-8e14-426faccb9247@bca1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260618
+SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
+UID:fc5e5db3-1acd-42ba-bdf5-131df1567051@fc5e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300101
+SUMMARY:New Year's Day - offices closed
+UID:13be5eb1-e102-4cae-a5b1-02a9f926ccb9@13be.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220529
+SUMMARY:Memorial Day - no classes\, offices closed
+UID:0f1e689a-e187-4e6f-abb7-0b6df381371c@0f1e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290121
+SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
+UID:f25bbf75-e8a6-48fb-bd73-c0e6ef3d4695@f25b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300526
+SUMMARY:Memorial Day - no classes\, offices closed
+UID:15168316-b3b4-4cbd-a91e-652dec0a7408@1516.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210117
+SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
+UID:7d612d03-7fb8-49b9-999b-b63373c8565f@7d61.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290527
+SUMMARY:Memorial Day - no classes\, offices closed
+UID:f243dfe1-ea7e-43c5-bda2-433e666d419d@f243.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300619
+SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
+UID:bc0e1cf1-ed51-401f-8deb-e02fe9532be0@bc0e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270117
+SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
+UID:91cd29e5-a9c0-48d6-8976-184afc0558f6@91cd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211126
+SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
+UID:96be9d7a-f30f-49fc-a1d0-ba5222777842@96be.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230904
+SUMMARY:Labor Day - no classes\, offices closed
+UID:a09627c3-61f2-4775-9b2a-716a3a1a052a@a096.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250119
+SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
+UID:c52fdcd5-2fdd-45db-a02a-5f4d4bbf4832@c52f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261225
+SUMMARY:Christmas - offices closed
+UID:24a1518d-0a87-4905-9bf2-8ca10ef2f883@24a1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221226
+SUMMARY:Christmas - offices closed
+UID:9647ff64-4606-4523-bd82-4d7b67faa6b6@9647.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211111
+SUMMARY:Veterans Day observed - no classes\, offices closed
+UID:246ac084-5f2b-460b-8041-cfc55810f522@246a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281225
+SUMMARY:Christmas - offices closed
+UID:11a0e2cb-7dd4-4dc2-b8a6-82339e73a616@11a0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260118
+SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
+UID:d33510fe-d6ae-4ccb-9da1-03eaa9984618@d335.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271126
+SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
+UID:4c51b089-a72d-4815-8502-c5e7ccf53d30@4c51.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291112
+SUMMARY:Veterans Day observed - no classes\, offices closed
+UID:0d0f4da2-8e52-43c7-b659-499fac0d1a1e@0d0f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300902
+SUMMARY:Labor Day - no classes\, offices closed
+UID:31806483-38f0-46d6-a0d7-7ae33253a164@3180.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301225
+SUMMARY:Christmas - offices closed
+UID:0846df0f-c64f-4c2a-805e-e2a383ac2fb1@0846.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290101
+SUMMARY:New Year's Day - offices closed
+UID:7cd87a77-08e0-4e21-9754-3f0505ca96b7@7cd8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231124
+SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
+UID:e9d5d83a-d4a4-4712-9b27-36a8f937f124@e9d5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230527
+SUMMARY:Memorial Day - no classes\, offices closed
+UID:75ae6bbd-c5cf-4687-aa21-79fefb5d2d38@75ae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271223
+SUMMARY:President's Day Observed - offices closed
+UID:a1c70065-ab71-4e7a-a1cb-366257e9736b@a1c7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250525
+SUMMARY:Memorial Day - no classes\, offices closed
+UID:81d7c397-fec1-4beb-b96f-ccbf924ee7a3@81d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271224
+SUMMARY:Christmas - offices closed
+UID:7a930ea7-864a-460d-b6a4-086dc630b696@7a93.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280101
+SUMMARY:New Year's Day - offices closed
+UID:b7533bde-cea8-4824-afd3-0b3b89f8969d@b753.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280619
+SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
+UID:55909d16-aedf-468c-bcaa-e09c8e205e3f@5590.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281226
+SUMMARY:President's Day Observed - offices closed
+UID:08c95830-06c7-413e-a77d-9d408b57787f@08c9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211125
+SUMMARY:Thanksgiving Day - no classes\, offices closed
+UID:8e325686-2d96-4593-9648-47b6a178663d@8e32.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241128
+SUMMARY:Thanksgiving Day - no classes\, offices closed
+UID:4458ba7e-413c-4972-ad92-5f2436e80efb@4458.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291225
+SUMMARY:Christmas - offices closed
+UID:23053fce-c1ed-487d-83a8-eac946dad949@2305.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230619
+SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
+UID:40defdfb-098b-4668-91aa-75be57034312@40de.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240619
+SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
+UID:76dc1cad-0ac7-4dbf-af01-f91a02d09bab@76dc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221111
+SUMMARY:Veterans Day observed - no classes\, offices closed
+UID:e8118dfc-f71c-44d4-b2f2-11efa19c82d0@e811.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301111
+SUMMARY:Veterans Day observed - no classes\, offices closed
+UID:3800d95a-4e62-4fea-9b22-c4aefac9a06d@3800.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270529
+SUMMARY:Memorial Day - no classes\, offices closed
+UID:8ecc886d-ca6e-4203-ab21-1522e11dad06@8ecc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210620
+SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
+UID:6f2127d6-0d14-4c02-a489-1b31d0301e9d@6f21.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291123
+SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
+UID:b40d4f99-e689-4fae-8ede-e54269098769@b40d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220116
+SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
+UID:52b1f2f8-88f3-4a2f-8594-937b1ebddea4@52b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230704
+SUMMARY:Independence Day - no classes\, offices closed
+UID:29a207d5-3709-4ebc-bc39-d313e4cc8a7f@29a2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281123
+SUMMARY:Thanksgiving Day - no classes\, offices closed
+UID:8b16578c-52fe-4bfd-8015-08a482871387@8b16.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250901
+SUMMARY:Labor Day - no classes\, offices closed
+UID:2e3c3d81-a1e8-407b-9b4a-194f4636cdec@2e3c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240526
+SUMMARY:Memorial Day - no classes\, offices closed
+UID:885468e6-8363-4229-a5d8-2162f0313165@8854.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251111
+SUMMARY:Veterans Day observed - no classes\, offices closed
+UID:62e21194-a8e0-4544-af3a-20816b9f18a8@62e2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270704
+SUMMARY:Independence Day - no classes\, offices closed
+UID:9435c769-5775-44cc-847b-415fecf4fef3@9435.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251225
+SUMMARY:Christmas - offices closed
+UID:f6b8ce25-26f2-498e-b732-b536684f96ad@f6b8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221125
+SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
+UID:f564a134-72f3-45ca-bf70-6e4d8f101229@f564.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250619
+SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
+UID:ff01114c-bb1f-45b2-b863-41b864b4a170@ff01.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
+UID:bd748d14-87ad-4d07-abda-95bcdf7d83b0@bd74.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280704
+SUMMARY:Independence Day - no classes\, offices closed
+UID:b977ce37-8a14-4881-b222-725b0e39b250@b977.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290704
+SUMMARY:Independence Day - no classes\, offices closed
+UID:3ac691bf-4725-4e00-9600-dfdfeb0802f9@3ac6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291122
+SUMMARY:Thanksgiving Day - no classes\, offices closed
+UID:dbf0c9c2-d521-4a97-97e6-95fc9f95fbc2@dbf0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220619
+SUMMARY:Juneteenth National Independence Day - no classes\, offices closed
+UID:8800427e-91bd-47f6-a88c-4b1da2fe522a@8800.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221223
+SUMMARY:President's Day Observed - offices closed
+UID:e87522a7-d703-48cd-9c9a-1a14a41efc83@e875.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220704
+SUMMARY:Independence Day - no classes\, offices closed
+UID:7d0484c3-47fb-42ec-9bf6-8f49953d11ff@7d04.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280904
+SUMMARY:Labor Day - no classes\, offices closed
+UID:5c37c308-e569-47b4-b2a3-02fc070ad952@5c37.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231110
+SUMMARY:Veterans Day observed - no classes\, offices closed
+UID:1578c897-3756-46e6-bd79-0d062c4fba86@1578.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211223
+SUMMARY:President's Day Observed - offices closed
+UID:ccec6eb1-6d91-4746-bbee-b617c2f0425b@ccec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260907
+SUMMARY:Labor Day - no classes\, offices closed
+UID:2d3be65d-0370-45a6-9bfa-d28ded7ded07@2d3b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240120
+SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
+UID:d55fe29c-1535-4a70-a42b-8bc46110a1ab@d55f.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20301128
 SUMMARY:Thanksgiving Day - no classes\, offices closed
-UID:b24c5494-7040-429d-a688-decaa9eb1235@b24c.org
+UID:b35312d7-f739-4754-aa6f-f4a48927f4af@b353.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241225
+SUMMARY:Christmas - offices closed
+UID:64d3fddf-7323-400b-960c-6d2ae8dadabf@64d3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300120
+SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
+UID:718972f2-1240-44a7-aeac-e8bd740841c4@7189.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270906
+SUMMARY:Labor Day - no classes\, offices closed
+UID:bfccf890-a649-405e-ac4f-9948b23a65be@bfcc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231226
+SUMMARY:President's Day Observed - offices closed
+UID:405d49ab-181f-42dc-99df-bea71f4cc34b@405d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251128
+SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
+UID:47c6b1eb-e45d-43f8-8896-f4ccf5abc9e0@47c6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271231
+SUMMARY:New Year's Day - offices closed
+UID:4e9bc835-334f-4140-bb43-7977ebf6f6b0@4e9b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280115
+SUMMARY:Martin Luther King Jr. Day - no classes\, offices closed
+UID:20ca04c8-6042-4cda-abe5-1c417c1bcc86@20ca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281124
+SUMMARY:Indigenous Peoples' Day/Columbus Day observed – no classes\, offices closed
+UID:25199770-eb6f-4afe-a715-a82f389ea54d@2519.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250101
+SUMMARY:New Year's Day - offices closed
+UID:e1e8d3a2-5ed0-42d5-b575-ac5f5b7a7749@e1e8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251224
+SUMMARY:President's Day Observed - offices closed
+UID:87223a00-8eee-4923-bd50-c5e2e850e3b4@8722.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211231
+SUMMARY:New Year's Day - offices closed
+UID:5ea6bcac-e2fd-4022-9e29-82386eece904@5ea6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271111
+SUMMARY:Veterans Day observed - no classes\, offices closed
+UID:b7ddb244-42a0-490f-8ae7-f79abd884677@b7dd.org
 END:VEVENT
 END:VCALENDAR
